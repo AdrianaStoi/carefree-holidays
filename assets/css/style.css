@@ -24,7 +24,7 @@ h1 {
     display: flex;
     list-style: none;
     margin-left: 20px;
-    padding: 5px;
+    padding: 10px;
     justify-content: space-between;
 }
 
@@ -54,4 +54,26 @@ a:hover {
     border-bottom: 1px solid #ffcba9;
     padding: 10px;
 
+}
+
+/* landing image */
+
+#landing-image {
+    background-image: url('../images/landing_page_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    margin-top: 0px;
+
+}
+
+#text-landing-image {
+    font-family: Roboto, sans-serif;
+    font-size: 550%;
+    font-weight: 700;
+    color: #fff5ee;
+    text-align: center;
+    padding: 16%;
 }
