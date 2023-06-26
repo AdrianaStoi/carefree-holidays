@@ -77,3 +77,48 @@ a:hover {
     text-align: center;
     padding: 16%;
 }
+
+/* Let us plan your carefree holiday section */
+
+#videoiframe {
+    display: flex;
+    height: 450px;
+    width: 70%;
+    margin: 60px;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    font-size: 160%;
+    color: #36454f;
+    padding-top: 15px;
+    padding-left: 70px;
+}
+
+.plan-holiday {
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+    padding: 0px;
+    justify-content: space-between;
+}
+
+.plan-holiday p {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 0px;
+    padding: 40px;
+    font-family: Nunito, sans-serif;
+    font-size: 120%;
+    font-weight: 600;
+}
+
+.plan-holiday div {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #36454f;
+    border-radius: 10%;
+    margin: auto;
+    margin-right: 40px;
+
+}
