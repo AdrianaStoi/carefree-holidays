@@ -11,7 +11,7 @@ body {
     font-family: Nunito, sans-serif;
     font-weight: 500;
     color: #36454f;
-    background: #f8efe1;
+    background: #fff5ee;
 }
 
 h1 {
@@ -32,10 +32,26 @@ h1 {
     display: flex;
     gap: 2rem;
     list-style: none;
-    margin-right: 20px;
+    margin-right: 100px;
     padding: 10px;
-    font-family: Roboto, sans-serif;
+    font-family: Nunito, sans-serif;
     font-size: 150%;
+    font-weight: 300;
     color: #36454f;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    border-bottom: 1px solid #ffcba9;
+    padding: 10px;
 
 }
