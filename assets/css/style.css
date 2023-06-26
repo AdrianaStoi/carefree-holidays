@@ -8,7 +8,34 @@
 }
 
 body {
+    font-family: Nunito, sans-serif;
+    font-weight: 500;
+    color: #36454f;
+    background: #f8efe1;
+}
+
+h1 {
     font-family: Roboto, sans-serif;
-    font-weight: 300;
+    font-size: 200%;
+    color: #36454f;
+}
+
+.nav-bar {
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    margin-right: 20px;
+    padding: 10px;
+    font-family: Roboto, sans-serif;
+    font-size: 150%;
+    color: #36454f;
 
 }
