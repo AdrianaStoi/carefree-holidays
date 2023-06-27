@@ -278,3 +278,24 @@ i {
 i:hover {
     border-bottom: 2px solid #ff7e28;
 }
+
+/* ****** Offers page ****** */
+
+.containerOffer1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10%;
+}
+
+
+#hotel-primasol {
+    display: flex;
+    background-image: url('../images/hotel_PrimaSol_elMehdi_offer.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 400px;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 30px;
+}
