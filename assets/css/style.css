@@ -248,3 +248,33 @@ h3 {
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
+
+/* Footer */
+
+footer {
+    height: 150px;
+
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    gap: 10%;
+}
+
+.social-media li {
+    margin: 80px 10px;
+    height: 50px;
+}
+
+i {
+    font-size: 30px;
+    color: #36454f;
+}
+
+i:hover {
+    border-bottom: 2px solid #ff7e28;
+}
