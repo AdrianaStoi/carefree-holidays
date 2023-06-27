@@ -42,22 +42,22 @@ h1 {
 
 }
 
-a:link {
+.navLink:link {
     text-decoration: none;
     color: #36454f;
 }
 
-a:visited {
+.navLink:visited {
     text-decoration: none;
     color: inherit;
 }
 
-a:hover {
+.navLink:hover {
     border-bottom: 1px solid #ffcba9;
-    padding: 5px;
+    padding: 3px;
 }
 
-/* landing image */
+/* ******Home page - landing image****** */
 
 #landing-image {
     background-image: url('../images/landing_page_image.jpg');
@@ -120,4 +120,56 @@ h3 {
     margin: auto;
     margin-right: 40px;
 
+}
+
+/* Check out our offers*/
+
+#check-offer-image {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    background-image: url('../images/check_offers_section_images.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    margin: 0;
+}
+
+.text-check-offer-home {
+    display: flex;
+    font-family: Nunito, sans-serif;
+    font-size: 120%;
+    font-weight: 700;
+    color: #fff5ee;
+    text-align: left;
+    padding-top: 80px;
+    margin-left: 100px;
+}
+
+.containerOfferBtn {
+    display: flex;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-bottom: 300px;
+}
+
+.offerBtn {
+    background-color: #ff7e28;
+    font-family: Nunito, sans-serif;
+    font-size: 120%;
+    text-align: center;
+    text-decoration: none;
+    color: #fff5ee;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.offerBtn:hover {
+    background-color: white;
+    color: #ff7e28;
+    border: 1px solid #ff7e28;
 }
