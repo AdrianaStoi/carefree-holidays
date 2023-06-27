@@ -287,7 +287,7 @@ i:hover {
     align-items: flex-end;
     flex-direction: row;
     gap: 2%;
-    margin: 0px;
+    margin: 30px;
     padding: 0px;
 }
 
@@ -329,6 +329,10 @@ i:hover {
     color: #36454f;
 }
 
+.servicesFrstOffer li {
+    margin-left: 50px;
+}
+
 #headingFrstOffer {
     margin-bottom: 10px;
     margin-right: 50px;
@@ -339,6 +343,16 @@ i:hover {
 }
 
 
+.containerScndOffer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row;
+    gap: 3%;
+    margin: 0px;
+    padding-top: 0px;
+}
+
 #hotel-alcudia {
     display: flex;
     background-image: url('../images/Offer_2_Hotel_Blue_Alcudia_Pins_Mallorca.PNG');
@@ -346,9 +360,36 @@ i:hover {
     background-position: center center;
     width: 40%;
     height: 400px;
-    padding-top: 50px;
+    padding-top: 40px;
     padding-left: 0px;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: 70px;
-    margin-right: 20px;
+    margin-right: 35px;
+}
+
+.servicesScndOffer {
+    display: flex;
+    width: 35%;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 150px;
+    padding-top: 0px;
+    font-family: Nunito, sans-serif;
+    font-size: 110%;
+    font-weight: 600;
+    color: #36454f;
+}
+
+#headingScndOffer {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-left: 0px;
+    font-size: 120%;
+    font-weight: 1000;
+}
+
+.servicesScndOffer li {
+    margin-left: 50px;
 }
