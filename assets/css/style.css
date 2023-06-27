@@ -281,21 +281,59 @@ i:hover {
 
 /* ****** Offers page ****** */
 
-.containerOffer1 {
+.containerOffers {
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 10%;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;
+    gap: 2%;
+    margin: 0px;
+    padding: 0px;
 }
-
 
 #hotel-primasol {
     display: flex;
     background-image: url('../images/hotel_PrimaSol_elMehdi_offer.jpg');
     background-repeat: no-repeat;
     background-position: center center;
+    width: 60%;
     height: 400px;
-    width: 40%;
+    padding-top: 50px;
+    padding-left: 0px;
     margin-top: 50px;
-    margin-left: 30px;
+    margin-left: 0px;
+    margin-right: 20px;
+
+}
+
+.servicesFrstOffer {
+    display: flex;
+    width: 40%;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 200px;
+    font-family: Nunito, sans-serif;
+    font-size: 110%;
+    font-weight: 600;
+    color: #36454f;
+}
+
+.listFrstOffer {
+    width: 100%;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-family: Nunito, sans-serif;
+    font-size: 100%;
+    font-weight: 600;
+    color: #36454f;
+}
+
+#headingFrstOffer {
+    margin-bottom: 10px;
+    margin-right: 50px;
+    padding-top: 0px;
+    padding-left: 0px;
+    font-size: 120%;
+    font-weight: 1000;
 }
