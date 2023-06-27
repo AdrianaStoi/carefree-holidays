@@ -173,3 +173,23 @@ h3 {
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
+
+/* Additional Plus Flex package */
+
+.container-plus-flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+
+}
+
+#plus-flex-image {
+    display: flex;
+    background-image: url('../images/image_plus_flex_section.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 400px;
+    width: 40%;
+    margin-top: 60px;
+    margin-left: 60px;
+}
