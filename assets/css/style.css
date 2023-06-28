@@ -355,7 +355,7 @@ i:hover {
 
 #hotel-alcudia {
     display: flex;
-    background-image: url('../images/Offer_2_Hotel_Blue_Alcudia_Pins_Mallorca.PNG');
+    background-image: url('../images/offer_2_hotel_blue_alcudia_pins.PNG');
     background-repeat: no-repeat;
     background-position: center center;
     width: 40%;
@@ -396,3 +396,25 @@ i:hover {
 
 /* Third offer */
 
+.containerThrdOffer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;
+    gap: 2%;
+    margin: 10px;
+    padding: 0px;
+}
+
+
+#hotel-girandella {
+    display: flex;
+    background-image: url('../images/girandella-valamar-collection-resort-panorama_third_offer.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 45%;
+    height: 400px;
+    padding-top: 40px;
+    padding-left: 0px;
+    margin: 50px 0px 80px 70px;
+}
