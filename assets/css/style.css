@@ -530,3 +530,21 @@ form>textarea {
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
+
+table {
+    font-family: Nunito, sans-serif;
+    font-size: 120%;
+    font-weight: 600;
+    text-align: left;
+    color: #36454f;
+    border-radius: 2%;
+    border: 1px solid #ff7e28;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 60px;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
