@@ -465,9 +465,10 @@ form {
     margin: 30px 50px 40px 20px;
     padding: 0px 0px 0px 80px;
     width: 60%;
-    height: 1000px;
-    background-color: rgba(214, 204, 197, 0.404);
+    height: 1200px;
+    background-color: rgba(240, 219, 205, 0.932);
     border: 1px solid #ff7e28;
+    border-radius: 2%;
 }
 
 form label {
@@ -475,7 +476,7 @@ form label {
     font-size: 120%;
     font-weight: 600;
     color: #36454f;
-    padding: 20px 0px 0px 0px;
+    padding-top: 20px;
 
 }
 
@@ -484,4 +485,37 @@ form h2 {
     font-size: 130%;
     font-weight: 800;
     margin: 0px 0px 20px 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.text-form {
+    width: 40%;
+    height: 30px;
+}
+
+#sbscrbnwsletter {
+    width: 3%;
+}
+
+form>textarea {
+    margin-top: 30px;
+}
+
+#submitBtn {
+    background-color: #ff7e28;
+    font-family: Nunito, sans-serif;
+    font-size: 120%;
+    text-align: center;
+    text-decoration: none;
+    color: #fff5ee;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+
+#submitBtn:hover {
+    background-color: white;
+    color: #ff7e28;
+    border: 1px solid #ff7e28;
 }
