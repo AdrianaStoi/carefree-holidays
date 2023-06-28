@@ -480,6 +480,17 @@ form label {
 
 }
 
+select,
+option,
+#message,
+#departure {
+    font-family: Nunito, sans-serif;
+    font-size: 100%;
+    font-weight: 600;
+    color: #36454f;
+}
+
+
 form h2 {
     font-family: Roboto, sans-serif;
     font-size: 130%;
