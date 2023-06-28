@@ -298,8 +298,7 @@ i:hover {
     background-position: center center;
     width: 60%;
     height: 400px;
-    padding-top: 50px;
-    padding-left: 0px;
+    padding: 50px 0px;
     margin-top: 50px;
     margin-left: 0px;
     margin-right: 20px;
@@ -348,7 +347,7 @@ i:hover {
     justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 3%;
+    gap: 6%;
     margin: 0px;
     padding-top: 0px;
 }
@@ -358,21 +357,17 @@ i:hover {
     background-image: url('../images/offer_2_hotel_blue_alcudia_pins.PNG');
     background-repeat: no-repeat;
     background-position: center center;
-    width: 40%;
+    width: 35%;
     height: 400px;
-    padding-top: 40px;
-    padding-left: 0px;
-    margin-top: 50px;
-    margin-left: 70px;
-    margin-right: 35px;
+    padding: 0px 0px 0px;
+    margin: 50px 2px 30px 65px;
+
 }
 
 .servicesScndOffer {
     display: flex;
-    width: 35%;
-    margin-top: 0px;
-    margin-left: 40px;
-    margin-right: 150px;
+    width: 40%;
+    margin: 0px 20px 50px 100px;
     padding-top: 0px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
@@ -384,7 +379,7 @@ i:hover {
     margin-top: 0px;
     margin-bottom: 10px;
     margin-right: 50px;
-    padding-top: 10px;
+    padding-top: 0px;
     padding-left: 0px;
     font-size: 120%;
     font-weight: 1000;
@@ -398,23 +393,44 @@ i:hover {
 
 .containerThrdOffer {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 2%;
-    margin: 10px;
+    gap: 3%;
+    margin: 0px;
     padding: 0px;
 }
-
 
 #hotel-girandella {
     display: flex;
     background-image: url('../images/girandella-valamar-collection-resort-panorama_third_offer.PNG');
     background-repeat: no-repeat;
     background-position: center center;
-    width: 45%;
+    width: 40%;
     height: 400px;
-    padding-top: 40px;
-    padding-left: 0px;
-    margin: 50px 0px 80px 70px;
+    padding: 0px 0px 0px;
+    margin: 40px 20px 80px 80px;
+}
+
+.servicesThrdOffer {
+    display: flex;
+    width: 40%;
+    margin: 0px 80px 70px 85px;
+    padding-top: 0px;
+    font-family: Nunito, sans-serif;
+    font-size: 110%;
+    font-weight: 600;
+    color: #36454f;
+}
+
+#headingThrdOffer {
+    display: flex;
+    margin: 0px;
+    padding: 10px 0px 20px 0px;
+    font-size: 120%;
+    font-weight: 1000;
+}
+
+.servicesThrdOffer li {
+    margin-left: 50px;
 }
