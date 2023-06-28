@@ -436,3 +436,15 @@ i:hover {
 }
 
 /* ****** Contact us Page ****** */
+
+#contactus-form-photo {
+    background-image: url('../images/car_beach_holiday_sign_up.PNG');
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 40%;
+    height: 700px;
+    padding-top: 50px;
+    margin: 50px;
+
+
+}
