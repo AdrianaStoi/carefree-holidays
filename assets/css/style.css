@@ -123,7 +123,7 @@ h3 {
 
 }
 
-/* Check out our offers*/
+/* Check out our offers section*/
 
 #check-offer-image {
     display: flex;
@@ -176,7 +176,7 @@ h3 {
     border: 1px solid #ff7e28;
 }
 
-/* Additional Plus Flex package */
+/* Additional Plus Flex package section*/
 
 #container-plus-flex {
     display: flex;
@@ -303,7 +303,6 @@ i:hover {
     margin-top: 50px;
     margin-left: 0px;
     margin-right: 20px;
-
 }
 
 .servicesFrstOffer {
@@ -342,6 +341,7 @@ i:hover {
     font-weight: 1000;
 }
 
+/* Second offer */
 
 .containerScndOffer {
     display: flex;
@@ -393,3 +393,6 @@ i:hover {
 .servicesScndOffer li {
     margin-left: 50px;
 }
+
+/* Third offer */
+
