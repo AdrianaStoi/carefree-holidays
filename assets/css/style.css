@@ -286,30 +286,29 @@ i:hover {
     justify-content: space-between;
     align-items: flex-end;
     flex-direction: row;
-    gap: 2%;
-    margin: 30px;
+    gap: 3%;
+    margin: 0px;
     padding: 0px;
 }
 
 #hotel-primasol {
     display: flex;
-    background-image: url('../images/hotel_PrimaSol_elMehdi_offer.jpg');
+    background-image: url('../images/PrimaSol_ElMehdi_offer1.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
-    width: 60%;
+    background-size: cover;
+    background-position: center;
+    width: 40%;
     height: 400px;
-    padding: 50px 0px;
-    margin-top: 50px;
-    margin-left: 0px;
-    margin-right: 20px;
+    padding: 0px 0px;
+    margin: 50px 0px 30px 100px;
 }
 
 .servicesFrstOffer {
     display: flex;
     width: 40%;
     margin-top: 0px;
-    margin-left: 10px;
-    margin-right: 200px;
+    margin-left: 20px;
+    margin-right: 30px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
     font-weight: 600;
@@ -320,7 +319,7 @@ i:hover {
     width: 100%;
     margin: 0px;
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
     font-family: Nunito, sans-serif;
     font-size: 100%;
     font-weight: 600;
@@ -347,28 +346,29 @@ i:hover {
     justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 6%;
+    gap: 3%;
     margin: 0px;
     padding-top: 0px;
 }
 
 #hotel-alcudia {
     display: flex;
-    background-image: url('../images/offer_2_hotel_blue_alcudia_pins.PNG');
+    background-image: url('../images/offer_2_hotel_blue_alcudia_pins.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center center;
-    width: 35%;
+    width: 40%;
     height: 400px;
-    padding: 0px 0px 0px;
-    margin: 50px 2px 30px 65px;
+    padding: 0px;
+    margin: 0px 0px 0px 60px;
 
 }
 
 .servicesScndOffer {
     display: flex;
     width: 40%;
-    margin: 0px 20px 50px 100px;
-    padding-top: 0px;
+    margin: 30px 20px 0px 90px;
+    padding: 0px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
     font-weight: 600;
@@ -379,8 +379,7 @@ i:hover {
     margin-top: 0px;
     margin-bottom: 10px;
     margin-right: 50px;
-    padding-top: 0px;
-    padding-left: 0px;
+    padding: 0px;
     font-size: 120%;
     font-weight: 1000;
 }
@@ -403,13 +402,14 @@ i:hover {
 
 #hotel-girandella {
     display: flex;
-    background-image: url('../images/girandella-valamar-collection-resort-panorama_third_offer.PNG');
+    background-image: url('../images/girandella-valamar-collection-resort-third-offer.jpg');
     background-repeat: no-repeat;
     background-position: center center;
+    background-size: cover;
     width: 40%;
     height: 400px;
-    padding: 0px 0px 0px;
-    margin: 40px 20px 80px 80px;
+    padding: 0px;
+    margin: 40px 0px 80px 70px;
 }
 
 .servicesThrdOffer {
@@ -483,6 +483,8 @@ form label {
 select,
 option,
 #message,
+#travelerNumber,
+#numbernights,
 #departure {
     font-family: Nunito, sans-serif;
     font-size: 100%;
