@@ -283,10 +283,10 @@ i:hover {
 
 .containerOffers {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 3%;
+    gap: 1%;
     margin: 0px;
     padding: 0px;
 }
@@ -296,19 +296,17 @@ i:hover {
     background-image: url('../images/PrimaSol_ElMehdi_offer1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     width: 40%;
-    height: 400px;
+    height: 450px;
     padding: 0px 0px;
-    margin: 50px 0px 30px 100px;
+    margin: 50px 0px 20px 0px;
 }
 
 .servicesFrstOffer {
     display: flex;
     width: 40%;
-    margin-top: 0px;
-    margin-left: 20px;
-    margin-right: 30px;
+    margin: 0px 30px 30px 50px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
     font-weight: 600;
@@ -319,7 +317,7 @@ i:hover {
     width: 100%;
     margin: 0px;
     padding-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     font-family: Nunito, sans-serif;
     font-size: 100%;
     font-weight: 600;
@@ -346,7 +344,7 @@ i:hover {
     justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 3%;
+    gap: 1%;
     margin: 0px;
     padding-top: 0px;
 }
@@ -358,17 +356,18 @@ i:hover {
     background-size: cover;
     background-position: center center;
     width: 40%;
-    height: 400px;
+    height: 450px;
     padding: 0px;
-    margin: 0px 0px 0px 60px;
+    margin: 50px 0px 20px 0px;
 
 }
 
-.servicesScndOffer {
+#servicesScndOffer {
     display: flex;
     width: 40%;
-    margin: 30px 20px 0px 90px;
-    padding: 0px;
+    margin: 0px 30px 70px 50px;
+    padding-top: 20px;
+    padding-right: 20px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
     font-weight: 600;
@@ -384,9 +383,14 @@ i:hover {
     font-weight: 1000;
 }
 
-.servicesScndOffer li {
+#servicesScndOffer li {
     margin-left: 50px;
 }
+
+#servicesScndOffer p {
+    margin-left: 0px;
+}
+
 
 /* Third offer */
 
@@ -395,7 +399,7 @@ i:hover {
     justify-content: center;
     align-items: flex-end;
     flex-direction: row;
-    gap: 3%;
+    gap: 1%;
     margin: 0px;
     padding: 0px;
 }
@@ -407,15 +411,15 @@ i:hover {
     background-position: center center;
     background-size: cover;
     width: 40%;
-    height: 400px;
+    height: 450px;
     padding: 0px;
-    margin: 40px 0px 80px 70px;
+    margin: 50px 0px 40px 0px;
 }
 
 .servicesThrdOffer {
     display: flex;
     width: 40%;
-    margin: 0px 80px 70px 85px;
+    margin: 10px 30px 15px 50px;
     padding-top: 0px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
