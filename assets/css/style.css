@@ -187,8 +187,9 @@ h3 {
 
 #plus-flex-image {
     display: flex;
-    background-image: url('../images/image_plus_flex_section.PNG');
+    background-image: url('../images/image_Plus_Flex_Tariff.avif');
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center center;
     height: 400px;
     width: 40%;
@@ -313,7 +314,7 @@ i:hover {
     color: #36454f;
 }
 
-.listFrstOffer {
+.listOffer {
     width: 100%;
     margin: 0px;
     padding-top: 0px;
@@ -338,16 +339,6 @@ i:hover {
 }
 
 /* Second offer */
-
-.containerScndOffer {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    flex-direction: row;
-    gap: 1%;
-    margin: 0px;
-    padding-top: 0px;
-}
 
 #hotel-alcudia {
     display: flex;
@@ -393,16 +384,6 @@ i:hover {
 
 
 /* Third offer */
-
-.containerThrdOffer {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    flex-direction: row;
-    gap: 1%;
-    margin: 0px;
-    padding: 0px;
-}
 
 #hotel-girandella {
     display: flex;
@@ -452,9 +433,10 @@ i:hover {
 }
 
 #contactus-form-photo {
-    background-image: url('../images/car_beach_holiday_sign_up.PNG');
+    background-image: url('../images/car_beach_holiday_sign_up.jpg');
     background-repeat: no-repeat;
     background-position: center center;
+    background-size: cover;
     width: 40%;
     height: 1000px;
     padding-top: 0px;
@@ -503,7 +485,7 @@ form h2 {
     font-weight: 800;
     margin: 0px 0px 20px 20px;
     padding-top: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .text-form {
@@ -553,4 +535,66 @@ table {
 td {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+/* ****** Media queries ****** */
+
+@media screen and (max-width:990px) {
+
+    #videoiframe {
+        height: auto;
+    }
+
+    .containerOffers {
+        margin-top: 30px;
+    }
+
+
+    form>textarea {
+        margin-top: auto;
+        width: 80%;
+    }
+
+    #submitBtn {
+        margin-bottom: 20px;
+    }
+
+    form {
+        width: 65%;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .plan-holiday {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    #videoiframe {
+        height: 300px;
+    }
+
+    .plan-holiday div {
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    .plan-holiday h3 {
+
+        margin-top: 10px;
+    }
+
+    #container-plus-flex {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
 }
