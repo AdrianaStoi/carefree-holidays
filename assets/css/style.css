@@ -619,7 +619,8 @@ td {
         padding-left: 80px;
     }
 
-    .containerOffers {
+    .containerOffers,
+    .containerform {
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
@@ -642,6 +643,16 @@ td {
         width: 90%;
         margin-left: 100px;
         margin-top: 30px;
+    }
+
+    form {
+        width: 80%;
+        margin-left: 50px;
+    }
+
+    #contactus-form-photo {
+        width: 80%;
+        height: 600px;
     }
 
 }
