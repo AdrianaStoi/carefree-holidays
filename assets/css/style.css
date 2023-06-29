@@ -178,7 +178,7 @@ h3 {
 
 /* Additional Plus Flex package section*/
 
-#container-plus-flex {
+.container-plus-flex {
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -572,6 +572,8 @@ td {
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
+        margin: 0px;
+        padding: 0px;
 
     }
 
@@ -586,15 +588,31 @@ td {
     }
 
     .plan-holiday h3 {
-
         margin-top: 10px;
     }
 
-    #container-plus-flex {
+    .container-plus-flex {
         display: flex;
         flex-direction: column-reverse;
-        align-items: center;
         justify-content: center;
+        align-items: center;
+        margin: 0px;
+        padding: 0px;
         width: 100%;
     }
+
+    #plus-flex-image {
+        width: 70%;
+        height: 300px;
+    }
+
+    .flexlist {
+        width: 90%;
+        margin-left: 90px;
+    }
+
+    #head-plus-flex {
+        padding-left: 80px;
+    }
+
 }
