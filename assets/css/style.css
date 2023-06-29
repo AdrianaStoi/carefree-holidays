@@ -353,7 +353,7 @@ i:hover {
 
 }
 
-#servicesScndOffer {
+.servicesScndOffer {
     display: flex;
     width: 40%;
     margin: 0px 30px 70px 50px;
@@ -374,11 +374,11 @@ i:hover {
     font-weight: 1000;
 }
 
-#servicesScndOffer li {
+.servicesScndOffer li {
     margin-left: 50px;
 }
 
-#servicesScndOffer p {
+.servicesScndOffer p {
     margin-left: 0px;
 }
 
@@ -617,6 +617,31 @@ td {
 
     #head-plus-flex {
         padding-left: 80px;
+    }
+
+    .containerOffers {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #hotel-primasol,
+    #hotel-alcudia,
+    #hotel-girandella {
+        width: 80%;
+        height: 300;
+        margin: 0px;
+    }
+
+    .servicesFrstOffer,
+    .servicesScndOffer,
+    .servicesThrdOffer {
+        width: 90%;
+        margin-left: 100px;
+        margin-top: 30px;
     }
 
 }
