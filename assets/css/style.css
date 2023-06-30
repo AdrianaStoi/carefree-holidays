@@ -77,7 +77,7 @@ h1 {
     font-weight: 700;
     color: #fff5ee;
     text-align: center;
-    padding: 16%;
+    padding: 14%;
 }
 
 /* Let us plan your carefree holiday section */
@@ -936,5 +936,40 @@ td {
         margin-left: 0px;
         font-size: 100%;
     }
+
+    form {
+        margin-right: 0px;
+        margin-left: 0px;
+        padding-left: 10px;
+    }
+
+    .text-form {
+        width: 60%;
+        font-size: 90%;
+    }
+
+    select,
+    option,
+    textarea,
+    #travelerNumber,
+    #numbernights,
+    #departure {
+        font-size: 90%;
+    }
+
+    #sbscrbnwsletter {
+        width: 8%;
+    }
+
+    form textarea {
+        margin-top: 0px;
+    }
+
+    #contactus-form-photo {
+        height: 300px;
+        width: 100%;
+        margin: 0px 0px 20px 0px;
+    }
+
 
 }
