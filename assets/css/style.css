@@ -683,13 +683,24 @@ td {
         font-size: 150%;
     }
 
+      .plan-holiday div {
+        margin-bottom: 0px;
+        padding: 0px;
+
+    }
+    
+    #videoiframe {
+        margin-top: 20px;
+    }
+    
     .containerOfferBtn {
         margin-top: 0px;
     }
 
     .text-check-offer-home {
         margin-bottom: 30px;
-        padding-top: 40px;
+        margin-top: 15px;
+        padding-top: 60px;
         margin-left: 50px;
     }
 
@@ -699,12 +710,26 @@ td {
 
     .plan-holiday p,
     .text-check-offer-home,
-    .flexlist {
+    .flexlist,
+    .offerBtn,
+    .listFrstOffer,
+    .servicesScndOffer,
+    .servicesThrdOffer,
+    .contactBtn,
+    form label,
+    table,
+    #submitBtn {
         font-size: 100%;
     }
 
     .flexlist {
         margin-left: 0px;
     }
+
+    form h2 {
+
+        font-size: 110%;
+    }
+
 
 }
