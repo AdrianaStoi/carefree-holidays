@@ -601,8 +601,9 @@ td {
         margin: 0;
     }
 
-    .plan-holiday h3 {
+    h3 {
         margin-top: 10px;
+        padding-left: 0px;
     }
 
     .container-plus-flex {
@@ -626,7 +627,7 @@ td {
     }
 
     #head-plus-flex {
-        padding-left: 80px;
+        padding-left: 0px;
     }
 
     .containerOffers,
@@ -660,6 +661,10 @@ td {
         margin-left: 50px;
     }
 
+    form h2 {
+        margin-left: 0px;
+    }
+
     #contactus-form-photo {
         width: 80%;
         height: 600px;
@@ -683,16 +688,16 @@ td {
         font-size: 150%;
     }
 
-      .plan-holiday div {
+    .plan-holiday div {
         margin-bottom: 0px;
         padding: 0px;
 
     }
-    
+
     #videoiframe {
         margin-top: 20px;
     }
-    
+
     .containerOfferBtn {
         margin-top: 0px;
     }
@@ -704,8 +709,9 @@ td {
         margin-left: 50px;
     }
 
-    h3 {
+    .plan-holiday h3 {
         font-size: 140%;
+        padding-left: 0px;
     }
 
     .plan-holiday p,
@@ -726,10 +732,73 @@ td {
         margin-left: 0px;
     }
 
-    form h2 {
-
-        font-size: 110%;
+    .servicesFrstOffer,
+    .servicesScndOffer,
+    .servicesThrdOffer {
+        width: 80%;
+        margin-left: 50px;
+        margin-top: 30px;
     }
 
+    form>h2 {
+        font-size: 110%;
+        margin-left: 0px;
+    }
+
+    #message {
+        margin-top: 30px;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+
+    .nav-bar {
+        margin-left: 3px;
+        padding: 8px;
+    }
+
+    h1 {
+        font-size: 130%;
+    }
+
+    .nav-links {
+        gap: 1rem;
+    }
+
+    #landing-image {
+        height: 500px;
+        margin: 0%;
+    }
+
+    #text-landing-image {
+        font-size: 350%;
+        padding-top: 40%;
+    }
+
+    .plan-holiday h3,
+    #head-plus-flex,
+    .headlist {
+        font-size: 110%;
+        padding-left: 5px;
+    }
+
+    .text-check-offer-home {
+        margin-left: 10px;
+    }
+
+    .containerOfferBtn {
+        margin-left: 30px;
+    }
+
+    .flexlist {
+        margin-top: 20px;
+    }
+
+    #plus-flex-image {
+        width: 100%;
+        margin: 30px 0px 20px 0px;
+        padding: 0px;
+    }
 
 }
