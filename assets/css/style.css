@@ -563,12 +563,22 @@ td {
         width: 65%;
         padding-left: 30px;
     }
+
+    footer {
+        height: 200px;
+    }
 }
 
 @media screen and (max-width: 768px) {
 
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
     .nav-links {
         margin-right: 0px;
+        margin-left: 0px;
     }
 
     .plan-holiday {
@@ -611,8 +621,8 @@ td {
     }
 
     .flexlist {
-        width: 90%;
-        margin-left: 90px;
+        width: 80%;
+        margin-left: 80px;
     }
 
     #head-plus-flex {
@@ -653,6 +663,48 @@ td {
     #contactus-form-photo {
         width: 80%;
         height: 600px;
+    }
+
+}
+
+
+@media screen and (max-width: 600px) {
+
+    #text-landing-image {
+        font-size: 470%;
+        padding-top: 30%;
+    }
+
+    .nav-links {
+        font-size: 120%;
+    }
+
+    h1 {
+        font-size: 150%;
+    }
+
+    .containerOfferBtn {
+        margin-top: 0px;
+    }
+
+    .text-check-offer-home {
+        margin-bottom: 30px;
+        padding-top: 40px;
+        margin-left: 50px;
+    }
+
+    h3 {
+        font-size: 140%;
+    }
+
+    .plan-holiday p,
+    .text-check-offer-home,
+    .flexlist {
+        font-size: 100%;
+    }
+
+    .flexlist {
+        margin-left: 0px;
     }
 
 }
