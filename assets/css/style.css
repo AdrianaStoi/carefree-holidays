@@ -548,6 +548,27 @@ td {
     #text-landing-image {
         padding: 20%;
     }
+
+    form h2 {
+        margin-left: 0px;
+    }
+
+    form {
+        margin-left: 0px;
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    form>textarea {
+        width: 60%;
+        margin-top: 30px;
+    }
+
+    form label {
+        font-size: 110%;
+    }
 }
 
 @media screen and (max-width: 990px) {
