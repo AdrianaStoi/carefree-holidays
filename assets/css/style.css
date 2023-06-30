@@ -553,10 +553,32 @@ td {
         margin-left: 0px;
     }
 
+    #hotel-alcudia,
+    #hotel-girandella {
+        margin-top: 0px;
+        padding-bottom: 70px;
+    }
+
+    .servicesScndOffer,
+    .servicesThrdOffer {
+        padding-top: 0px;
+    }
+
+    #headingFrstOffer,
+    #headingScndOffer,
+    #headingThrdOffer {
+        font-size: 110%;
+        padding-left: 5px;
+
+    }
+
     form {
         margin-left: 0px;
         padding-left: 50px;
     }
+
+
+
 }
 
 @media screen and (max-width: 1024px) {
@@ -865,3 +887,5 @@ td {
         font-size: 25px;
     }
 }
+
+@media screen and (max-width: 320px) {}
