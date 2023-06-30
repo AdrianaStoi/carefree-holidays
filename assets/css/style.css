@@ -917,4 +917,24 @@ td {
         width: 80%;
         height: auto;
     }
+
+    #hotel-primasol,
+    #hotel-alcudia,
+    #hotel-girandella {
+        height: 300px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .listFrstOffer,
+    .servicesFrstOffer,
+    .servicesScndOffer,
+    .servicesThrdOffer {
+        width: 90%;
+        margin-top: 30px;
+        margin-right: 5px;
+        margin-left: 0px;
+        font-size: 100%;
+    }
+
 }
