@@ -466,12 +466,13 @@ form label {
 
 }
 
+.text-form,
 select,
 option,
-#message,
 #travelerNumber,
 #numbernights,
-#departure {
+#departure,
+#message {
     font-family: Nunito, sans-serif;
     font-size: 100%;
     font-weight: 600;
@@ -511,6 +512,7 @@ form>textarea {
     border-radius: 10px;
     padding: 10px 20px;
     margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 #submitBtn:hover {
@@ -971,5 +973,13 @@ td {
         margin: 0px 0px 20px 0px;
     }
 
+    table {
+        padding: 0px 10px;
+    }
+
+    td {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
 
 }
