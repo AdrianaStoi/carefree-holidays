@@ -576,7 +576,6 @@ td {
         margin-top: 30px;
     }
 
-
     form>textarea {
         margin-top: auto;
         width: 80%;
@@ -699,6 +698,10 @@ td {
 
 @media screen and (max-width: 600px) {
 
+    body {
+        font-size: 100%;
+    }
+
     .landing-image h2 {
         font-size: 470%;
         padding-top: 30%;
@@ -736,18 +739,6 @@ td {
     .plan-holiday h3 {
         font-size: 140%;
         padding-left: 0px;
-    }
-
-    .plan-holiday p,
-    .text-check-offer-home,
-    .flex-list,
-    .offer-btn,
-    .services-offers,
-    .contact-btn,
-    form label,
-    table,
-    #submit-btn {
-        font-size: 100%;
     }
 
     .flex-list {
