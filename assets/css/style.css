@@ -137,7 +137,7 @@ h3 {
     background-attachment: fixed;
     height: 350px;
     width: 100%;
-    margin: 0;
+    margin: 0%;
 }
 
 .text-check-offer-home {
@@ -246,7 +246,7 @@ h3 {
     padding: 15px 25px;
 }
 
-.contactBtn:hover {
+.contact-btn:hover {
     background-color: white;
     color: #ff7e28;
     border: 1px solid #ff7e28;
@@ -355,18 +355,6 @@ i:hover {
 
 }
 
-.servicesScndOffer {
-    display: flex;
-    width: 40%;
-    margin: 0px 30px 70px 50px;
-    padding-top: 20px;
-    padding-right: 20px;
-    font-family: Nunito, sans-serif;
-    font-size: 110%;
-    font-weight: 600;
-    color: #36454f;
-}
-
 #headingScndOffer {
     margin-top: 0px;
     margin-bottom: 10px;
@@ -375,15 +363,6 @@ i:hover {
     font-size: 120%;
     font-weight: 1000;
 }
-
-.servicesScndOffer li {
-    margin-left: 50px;
-}
-
-.servicesScndOffer p {
-    margin-left: 0px;
-}
-
 
 /* Third offer */
 
@@ -409,7 +388,7 @@ i:hover {
 
 /* ****** Contact us Page ****** */
 
-.containerform {
+.container-form {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -455,12 +434,7 @@ form label {
 }
 
 .text-form,
-select,
-option,
-#travelerNumber,
-#numbernights,
-#departure,
-#message {
+form textarea {
     font-family: Nunito, sans-serif;
     font-size: 100%;
     font-weight: 600;
@@ -486,8 +460,9 @@ form h2 {
     width: 3%;
 }
 
-form>textarea {
+form textarea {
     margin-top: 30px;
+
 }
 
 #submitBtn {
@@ -683,7 +658,7 @@ td {
     }
 
     .container-offers,
-    .containerform {
+    .container-form {
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
@@ -768,7 +743,7 @@ td {
     .flexlist,
     .offer-btn,
     .services-offers,
-    .contactBtn,
+    .contact-btn,
     form label,
     table,
     #submitBtn {
@@ -790,7 +765,7 @@ td {
         margin-left: 0px;
     }
 
-    #message {
+    textarea {
         margin-top: 30px;
     }
 
@@ -863,10 +838,6 @@ td {
         padding: 0px;
     }
 
-    #message {
-        margin-top: 50px;
-    }
-
     footer {
         height: 100px;
     }
@@ -920,7 +891,6 @@ td {
         margin: 0px;
         padding: 0px;
     }
-
 
     .services-offers {
         width: 90%;
