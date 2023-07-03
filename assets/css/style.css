@@ -539,6 +539,18 @@ td {
     padding-bottom: 10px;
 }
 
+/* ******Confirmation submission form ****** */
+
+.msg-submission {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Nunito, sans-serif;
+    font-size: 220%;
+    text-align: center;
+    margin: 5% 0%;
+}
+
 /* ****** Media queries ****** */
 
 @media screen and (max-width: 1200px) {
