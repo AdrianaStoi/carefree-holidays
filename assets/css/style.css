@@ -218,7 +218,7 @@ h3 {
     font-weight: 900;
 }
 
-.head-list {
+.head-flex-list {
     display: flex;
     font-family: Nunito, sans-serif;
     font-size: 130%;
@@ -308,12 +308,23 @@ i:hover {
 
 .services-offers {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 40%;
-    margin: 0px 30px 30px 50px;
+    margin: 10px 30px 30px 50px;
     font-family: Nunito, sans-serif;
     font-size: 110%;
     font-weight: 600;
     color: #36454f;
+}
+
+.services-offers div {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 0%;
 }
 
 .services-offers ul {
@@ -328,19 +339,19 @@ i:hover {
 }
 
 .services-offers li {
-    margin-left: 50px;
+    margin-left: 15%;
 }
 
-#headingFrstOffer {
+.services-offers h3 {
     margin-bottom: 10px;
-    margin-right: 50px;
+    margin-right: 0px;
     padding-top: 0px;
     padding-left: 0px;
     font-size: 120%;
     font-weight: 1000;
 }
 
-/* Second offer */
+/* Style for the image of the second offer */
 
 #hotel-alcudia {
     display: flex;
@@ -352,19 +363,9 @@ i:hover {
     height: 450px;
     padding: 0px;
     margin: 50px 0px 20px 0px;
-
 }
 
-#headingScndOffer {
-    margin-top: 0px;
-    margin-bottom: 10px;
-    margin-right: 50px;
-    padding: 0px;
-    font-size: 120%;
-    font-weight: 1000;
-}
-
-/* Third offer */
+/* Style for the image of the third offer */
 
 #hotel-girandella {
     display: flex;
@@ -375,15 +376,7 @@ i:hover {
     width: 40%;
     height: 450px;
     padding: 0px;
-    margin: 50px 0px 40px 0px;
-}
-
-#headingThrdOffer {
-    display: flex;
-    margin: 0px;
-    padding: 10px 0px 20px 0px;
-    font-size: 120%;
-    font-weight: 1000;
+    margin: 50px 0px 60px 0px;
 }
 
 /* ****** Contact us Page ****** */
@@ -540,9 +533,7 @@ td {
         padding-top: 0px;
     }
 
-    #headingFrstOffer,
-    #headingScndOffer,
-    #headingThrdOffer {
+    .services-offers h3 {
         font-size: 110%;
         padding-left: 5px;
 
@@ -787,13 +778,9 @@ td {
         padding-top: 40%;
     }
 
-    .plan-holiday h3,
-    .flex-list h3,
-    .head-list,
-    #headingFrstOffer,
-    #headingScndOffer,
-    #headingThrdOffer,
-    form h2 {
+    h3,
+    form h2,
+    .head-flex-list {
         font-size: 110%;
         padding-left: 5px;
 
