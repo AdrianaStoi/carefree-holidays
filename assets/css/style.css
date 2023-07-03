@@ -456,7 +456,7 @@ form h2 {
     height: 30px;
 }
 
-#sbscrbnwsletter {
+#subscribe-newsletter {
     width: 3%;
 }
 
@@ -465,7 +465,7 @@ form textarea {
 
 }
 
-#submitBtn {
+#submit-btn {
     background-color: #ff7e28;
     font-family: Nunito, sans-serif;
     font-size: 120%;
@@ -478,7 +478,7 @@ form textarea {
     margin-bottom: 10px;
 }
 
-#submitBtn:hover {
+#submit-btn:hover {
     background-color: white;
     color: #ff7e28;
     border: 1px solid #ff7e28;
@@ -582,7 +582,7 @@ td {
         width: 80%;
     }
 
-    #submitBtn {
+    #submit-btn {
         margin-bottom: 20px;
     }
 
@@ -746,7 +746,7 @@ td {
     .contact-btn,
     form label,
     table,
-    #submitBtn {
+    #submit-btn {
         font-size: 100%;
     }
 
@@ -911,17 +911,8 @@ td {
         font-size: 90%;
     }
 
-    select,
-    option,
-    textarea,
-    #travelerNumber,
-    #numbernights,
-    #departure {
-        font-size: 90%;
-    }
-
-    #sbscrbnwsletter {
-        width: 8%;
+    #subscribe-newsletter {
+        width: 10%;
     }
 
     form textarea {
