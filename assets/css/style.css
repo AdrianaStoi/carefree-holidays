@@ -42,17 +42,17 @@ h1 {
 
 }
 
-.navLink:link {
+.nav-link-heading:link {
     text-decoration: none;
     color: #36454f;
 }
 
-.navLink:visited {
+.nav-link-heading:visited {
     text-decoration: none;
     color: inherit;
 }
 
-.navLink:hover {
+.nav-link-heading:hover {
     border-bottom: 1px solid #ffcba9;
     padding: 3px;
 }
@@ -452,7 +452,8 @@ form {
     padding: 0px 0px 0px 80px;
     width: 50%;
     height: 1200px;
-    background-color: rgba(240, 219, 205, 0.932);
+    background-color: #f0dbcd;
+    opacity: 0.9;
     border: 1px solid #ff7e28;
     border-radius: 2%;
 }
