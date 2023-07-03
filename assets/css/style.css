@@ -59,7 +59,7 @@ h1 {
 
 /* ******Home page - landing image****** */
 
-#landing-image {
+.landing-image {
     background-image: url('../images/landing_page_image.jpg');
     background-repeat: no-repeat;
     background-position: center center;
@@ -450,7 +450,7 @@ form {
     flex-direction: column;
     margin: 30px 50px 40px 20px;
     padding: 0px 0px 0px 80px;
-    width: 60%;
+    width: 50%;
     height: 1200px;
     background-color: rgba(240, 219, 205, 0.932);
     border: 1px solid #ff7e28;
@@ -697,7 +697,7 @@ td {
     #hotel-alcudia,
     #hotel-girandella {
         width: 80%;
-        height: 300;
+        height: 300px;
         margin: 0px;
     }
 
@@ -818,7 +818,7 @@ td {
         gap: 1rem;
     }
 
-    #landing-image {
+    .landing-image {
         height: 500px;
         margin: 0%;
     }
@@ -904,7 +904,7 @@ td {
         font-size: 100%;
     }
 
-    #landing-image {
+    .landing-image {
         height: 400px;
         margin: 0%;
     }
