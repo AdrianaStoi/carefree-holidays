@@ -187,7 +187,7 @@ h3 {
 
 #plus-flex-image {
     display: flex;
-    background-image: url('../images/image_Plus_Flex_Tariff.avif');
+    background-image: url('../images/image_plus_flex_tariff.avif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -197,7 +197,7 @@ h3 {
     margin-left: 30px;
 }
 
-.flexlist {
+.flex-list {
     display: flex;
     flex-direction: column;
     width: 40%;
@@ -209,7 +209,7 @@ h3 {
     color: #36454f;
 }
 
-.flexlist h3 {
+.flex-list h3 {
     display: flex;
     margin-bottom: 20px;
     margin-right: 50px;
@@ -218,7 +218,7 @@ h3 {
     font-weight: 900;
 }
 
-.headlist {
+.head-list {
     display: flex;
     font-family: Nunito, sans-serif;
     font-size: 130%;
@@ -296,7 +296,7 @@ i:hover {
 
 #hotel-primasol {
     display: flex;
-    background-image: url('../images/PrimaSol_ElMehdi_offer1.jpg');
+    background-image: url('../images/hotel_primasol_elmehdi_first_offer.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -344,7 +344,7 @@ i:hover {
 
 #hotel-alcudia {
     display: flex;
-    background-image: url('../images/offer_2_hotel_blue_alcudia_pins.jpg');
+    background-image: url('../images/hotel_blue_alcudia_pins_second_offer.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -368,7 +368,7 @@ i:hover {
 
 #hotel-girandella {
     display: flex;
-    background-image: url('../images/girandella-valamar-collection-resort-third-offer.jpg');
+    background-image: url('../images/hotel_girandella_valamar_collection_third_offer.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -648,12 +648,12 @@ td {
         height: 300px;
     }
 
-    .flexlist {
+    .flex-list {
         width: 80%;
         margin-left: 80px;
     }
 
-    .flexlist h3 {
+    .flex-list h3 {
         padding-left: 0px;
     }
 
@@ -740,7 +740,7 @@ td {
 
     .plan-holiday p,
     .text-check-offer-home,
-    .flexlist,
+    .flex-list,
     .offer-btn,
     .services-offers,
     .contact-btn,
@@ -750,7 +750,7 @@ td {
         font-size: 100%;
     }
 
-    .flexlist {
+    .flex-list {
         margin-left: 0px;
     }
 
@@ -797,8 +797,8 @@ td {
     }
 
     .plan-holiday h3,
-    .flexlist h3,
-    .headlist,
+    .flex-list h3,
+    .head-list,
     #headingFrstOffer,
     #headingScndOffer,
     #headingThrdOffer,
@@ -818,7 +818,7 @@ td {
         margin-left: 30px;
     }
 
-    .flexlist {
+    .flex-list {
         margin-top: 20px;
     }
 
