@@ -455,7 +455,6 @@ form h2 {
 
 form textarea {
     margin-top: 30px;
-
 }
 
 #submit-btn {
@@ -545,6 +544,8 @@ td {
     }
 }
 
+/* Media queries for Nest Hub */
+
 @media screen and (max-width: 1024px) {
 
     form>textarea {
@@ -556,6 +557,8 @@ td {
         font-size: 110%;
     }
 }
+
+/* Media queries for Surface Pro 7 - 912px */
 
 @media screen and (max-width: 990px) {
 
@@ -586,6 +589,8 @@ td {
     }
 }
 
+/* Media queries for iPad Mini -768px */
+
 @media screen and (max-width: 768px) {
 
     body {
@@ -605,7 +610,6 @@ td {
         justify-content: center;
         margin: 0px;
         padding: 0px;
-
     }
 
     iframe {
@@ -709,7 +713,6 @@ td {
     .plan-holiday div {
         margin-bottom: 0px;
         padding: 0px;
-
     }
 
     iframe {
@@ -753,7 +756,13 @@ td {
 
 }
 
+/* Media queries for Pixel 5 - 393px, iPhone Pro 12 -390px */
+
 @media screen and (max-width: 400px) {
+
+    body {
+        font-size: 90%;
+    }
 
     .nav-bar {
         margin-left: 3px;
@@ -780,15 +789,15 @@ td {
 
     h3,
     form h2,
-    .head-flex-list {
+    .head-flex-list,
+    .flex-list h3 {
         font-size: 110%;
         padding-left: 5px;
-
     }
 
     .text-check-offer-home {
         margin-left: 10px;
-        padding-top: 45px;
+        padding-top: 5%;
 
     }
 
@@ -796,7 +805,8 @@ td {
         margin-left: 30px;
     }
 
-    .flex-list {
+    .flex-list,
+    .plan-holiday {
         margin-top: 20px;
     }
 
@@ -829,6 +839,8 @@ td {
     }
 }
 
+/* Media queries for iPhone 320px*/
+
 @media screen and (max-width: 320px) {
 
     .nav-bar {
@@ -854,6 +866,10 @@ td {
     .landing-image h2 {
         font-size: 300%;
         padding-top: 40%;
+    }
+
+    .plan-holiday {
+        margin-left: 5%;
     }
 
     iframe {
