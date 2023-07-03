@@ -284,7 +284,7 @@ i:hover {
 
 /* ****** Offers page ****** */
 
-.containerOffers {
+.container-offers {
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -306,7 +306,7 @@ i:hover {
     margin: 50px 0px 20px 0px;
 }
 
-.servicesFrstOffer {
+.services-offers {
     display: flex;
     width: 40%;
     margin: 0px 30px 30px 50px;
@@ -316,7 +316,7 @@ i:hover {
     color: #36454f;
 }
 
-.listOffer {
+.services-offers ul {
     width: 100%;
     margin: 0px;
     padding-top: 0px;
@@ -327,7 +327,7 @@ i:hover {
     color: #36454f;
 }
 
-.servicesFrstOffer li {
+.services-offers li {
     margin-left: 50px;
 }
 
@@ -399,27 +399,12 @@ i:hover {
     margin: 50px 0px 40px 0px;
 }
 
-.servicesThrdOffer {
-    display: flex;
-    width: 40%;
-    margin: 10px 30px 15px 50px;
-    padding-top: 0px;
-    font-family: Nunito, sans-serif;
-    font-size: 110%;
-    font-weight: 600;
-    color: #36454f;
-}
-
 #headingThrdOffer {
     display: flex;
     margin: 0px;
     padding: 10px 0px 20px 0px;
     font-size: 120%;
     font-weight: 1000;
-}
-
-.servicesThrdOffer li {
-    margin-left: 50px;
 }
 
 /* ****** Contact us Page ****** */
@@ -576,8 +561,7 @@ td {
         padding-bottom: 70px;
     }
 
-    .servicesScndOffer,
-    .servicesThrdOffer {
+    .services-offers {
         padding-top: 0px;
     }
 
@@ -613,7 +597,7 @@ td {
         height: auto;
     }
 
-    .containerOffers {
+    .container-offers {
         margin-top: 30px;
     }
 
@@ -698,7 +682,7 @@ td {
         padding-left: 0px;
     }
 
-    .containerOffers,
+    .container-offers,
     .containerform {
         display: flex;
         flex-direction: column-reverse;
@@ -716,9 +700,7 @@ td {
         margin: 0px;
     }
 
-    .servicesFrstOffer,
-    .servicesScndOffer,
-    .servicesThrdOffer {
+    .services-offers {
         width: 90%;
         margin-left: 100px;
         margin-top: 30px;
@@ -785,9 +767,7 @@ td {
     .text-check-offer-home,
     .flexlist,
     .offer-btn,
-    .listFrstOffer,
-    .servicesScndOffer,
-    .servicesThrdOffer,
+    .services-offers,
     .contactBtn,
     form label,
     table,
@@ -799,9 +779,7 @@ td {
         margin-left: 0px;
     }
 
-    .servicesFrstOffer,
-    .servicesScndOffer,
-    .servicesThrdOffer {
+    .services-offers {
         width: 80%;
         margin-left: 50px;
         margin-top: 30px;
@@ -943,10 +921,8 @@ td {
         padding: 0px;
     }
 
-    .listFrstOffer,
-    .servicesFrstOffer,
-    .servicesScndOffer,
-    .servicesThrdOffer {
+
+    .services-offers {
         width: 90%;
         margin-top: 30px;
         margin-right: 5px;
