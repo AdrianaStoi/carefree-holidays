@@ -30,7 +30,7 @@ The user can find information on the website about the current offers, and they 
   <li>o	With this feature the user can navigate from page to page and does not have to use back to revert to the previous page. The navigation bar can be used on all device types: desktop, tablet, and smartphones.</li>
 </ul>
 
-![Navigation bar](./ImagesReadme/navigation_bar.PNG)
+![Navigation bar]()
 
 #### Landing Page image
 
@@ -38,7 +38,7 @@ The user can find information on the website about the current offers, and they 
   <li>Includes a picture with beach and sand with the company’s name overlaying. This will be the landing page image for all 3 pages and also for the "Confirmation" page that is displayed when user submits a request. </li>
 </ul>
 
-![Responsive](./ImagesReadme/landing_image.PNG)
+![Landing Page]()
 
 #### Let us help plan your carefree holiday!
 
@@ -47,4 +47,22 @@ The user can find information on the website about the current offers, and they 
   <li>This section includes a video showcasing the facilities, services, and beautiful beach view of the Hotel Alcudia Pins, inviting the user to indulge in a delightful holiday gateway.  </li>
 </ul>
 
-![Responsive](./ImagesReadme/let_us_plan_your+carefree_holiday_section.PNG)
+![Let us help plan your carefree holiday]()
+
+#### Check out our offers section
+
+<ul>
+  <li>Provides general information about the current offers inviting the user to explore the current offers for Summer 2023 or plan their Early bird offer for Summer 2024. </li>
+  <li>This section includes also an “Offers” button which directs the user to the Offers page. This facilitates the user’s navigation to the “Offers” page without having to go back to the top of the page and click on the “Offers” navigation bar. </li>
+</ul>
+
+![Check out our offers ]()
+
+#### Plus Flex pack section
+
+<ul>
+  <li>o	Informs the user about the new services that offer flexibility for cancelation or rebook of the holidays. He is informed about the cancelation and rebook policies. </li>
+  <li>o	Under this section there is a “Contact us” button that points the user to the contact us page. This facilitates user’s navigation on the website without having to scroll back up to the navigation bar. </li>
+</ul>
+
+![Plus Flex pack section]()
