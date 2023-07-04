@@ -66,3 +66,12 @@ The user can find information on the website about the current offers, and they 
 </ul>
 
 ![Plus Flex pack section]()
+
+#### The Footer 
+
+<ul>
+  <li>In the footer section, the user will find link to the Carefree Holiday’s relevant social media sites Facebook, Instagram and Youtube. The icons will display an orange underline when the user hovers over them. When user clicks on these links, they will open in a new tab, providing the user with effortless navigation.</li>
+  <li>This section holds significance for user as it serves as an encouragement to stay connected through social media channels and be informed about the latest offers. </li>
+</ul>
+
+![Footer social media icons]()
