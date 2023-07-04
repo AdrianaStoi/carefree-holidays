@@ -67,7 +67,7 @@ The user can find information on the website about the current offers, and they 
 
 ![Plus Flex pack section]()
 
-#### The Footer 
+#### The Footer
 
 <ul>
   <li>In the footer section, the user will find link to the Carefree Holiday’s relevant social media sites Facebook, Instagram and Youtube. The icons will display an orange underline when the user hovers over them. When user clicks on these links, they will open in a new tab, providing the user with effortless navigation.</li>
@@ -75,3 +75,21 @@ The user can find information on the website about the current offers, and they 
 </ul>
 
 ![Footer social media icons]()
+
+#### Offers page
+
+<ul>
+  <li>The Offers page includes information about the services included in each travel pack and images of the hotels.</li>
+  <li>There are three offers presented. On the left side the user can see an image of the Hotel destination. On the right side of the image the user can view information about the services included in each offer: destination, location, transport, hotel’s facilities, and pricing. </li>
+  
+</ul>
+
+![First offer image]()
+
+<ul>
+    <li>
+    o	Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact us” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
+</ul>
+
+![Third offer image and contact us button]()
+
