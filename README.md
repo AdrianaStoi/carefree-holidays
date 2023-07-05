@@ -26,7 +26,7 @@ The user can find information on the website about the current offers, and they 
 #### Navigation Bar
 
 <ul>
-  <li></li>Navigation Bar is present on all three pages. It is a full responsive navigation bar which includes the links for easy user navigation to the “Home”, “Offers”  and “Contact” page. When users click on the “Carefree Holidays” logo he will be directed to the “Home” page. </li>
+  <li>Navigation Bar is present on all three pages. It is a full responsive navigation bar which includes the links for easy user navigation to the “Home”, “Offers”  and “Contact” page. When users click on the “Carefree Holidays” logo he will be directed to the “Home” page. </li>
   <li>With this feature the user can navigate from page to page and does not have to use back to revert to the previous page. The navigation bar can be used on all device types: desktop, tablet, and smartphones.</li>
 </ul>
 
