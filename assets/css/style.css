@@ -413,6 +413,7 @@ form {
     height: 1200px;
     background-color: #f0dbcd;
     opacity: 0.9;
+    color: #25292c;
     border: 1px solid #ff7e28;
     border-radius: 2%;
 }
@@ -421,7 +422,7 @@ form label {
     font-family: Nunito, sans-serif;
     font-size: 120%;
     font-weight: 600;
-    color: #36454f;
+    color: #25292c;
     padding-top: 20px;
 
 }
@@ -454,8 +455,9 @@ form h2 {
 }
 
 form textarea {
-    margin-top: 30px;
+    margin-top: 2%;
 }
+
 
 #submit-btn {
     background-color: #ff7e28;
@@ -524,8 +526,8 @@ td {
 
     #hotel-alcudia,
     #hotel-girandella {
-        margin-top: 0px;
-        padding-bottom: 70px;
+        margin-top: 0%;
+        margin-bottom: 6%;
     }
 
     .services-offers {
@@ -535,7 +537,6 @@ td {
     .services-offers h3 {
         font-size: 110%;
         padding-left: 5px;
-
     }
 
     form {
@@ -550,7 +551,7 @@ td {
 
     form>textarea {
         width: 60%;
-        margin-top: 30px;
+
     }
 
     form label {
@@ -571,7 +572,6 @@ td {
     }
 
     form>textarea {
-        margin-top: auto;
         width: 80%;
     }
 
@@ -582,10 +582,6 @@ td {
     form {
         width: 65%;
         padding-left: 30px;
-    }
-
-    footer {
-        height: 200px;
     }
 }
 
@@ -750,10 +746,9 @@ td {
         margin-left: 0px;
     }
 
-    textarea {
-        margin-top: 30px;
+    #subscribe-newsletter {
+        width: 5%;
     }
-
 }
 
 /* Media queries for Pixel 5 - 393px, iPhone Pro 12 -390px */
@@ -798,7 +793,6 @@ td {
     .text-check-offer-home {
         margin-left: 10px;
         padding-top: 5%;
-
     }
 
     .container-offer-btn {
@@ -837,6 +831,16 @@ td {
     i {
         font-size: 25px;
     }
+
+    .text-form {
+        width: 60%;
+        font-size: 90%;
+    }
+
+    table {
+        width: 85%;
+    }
+
 }
 
 /* Media queries for iPhone 320px*/
@@ -898,11 +902,6 @@ td {
         margin-right: 0px;
         margin-left: 0px;
         padding-left: 10px;
-    }
-
-    .text-form {
-        width: 60%;
-        font-size: 90%;
     }
 
     #subscribe-newsletter {
