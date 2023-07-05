@@ -114,3 +114,11 @@ The user can find information on the website about the current offers, and they 
 </ul>
 
 ![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_details.PNG)
+
+#### Future features
+
+<ul>
+  <li>Create a page for each offer by providing more details about the destination and possible activities.</li>
+  <li>Add more offers on the website.</li>
+  <li>Add filter and search features to easily browse through the offers.</li>
+</ul>
