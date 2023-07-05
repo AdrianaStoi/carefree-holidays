@@ -6,7 +6,7 @@ The Summer 2023-2024 packages have as destination Tunisia, Croatia, and Spain. T
 Carefree Holiday site is targeted to any customer that is looking for a holiday planed from transport, hotel, meals to entertainment and cultural experiences.
 The user can find information on the website about the current offers, and they can submit a non-binding request. They have also the option to subscribe to the newsletter and receive the latest offers by email.
 
-![Responsive]()
+![Responsive](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/carefree_holiday_responsive.PNG)
 
 ## User Stories
 
@@ -30,7 +30,7 @@ The user can find information on the website about the current offers, and they 
   <li>With this feature the user can navigate from page to page and does not have to use back to revert to the previous page. The navigation bar can be used on all device types: desktop, tablet, and smartphones.</li>
 </ul>
 
-![Navigation bar]()
+![Navigation bar](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/navigation_bar.PNG)
 
 #### Landing Page image
 
@@ -38,7 +38,7 @@ The user can find information on the website about the current offers, and they 
   <li>Includes a picture with beach and sand with the company’s name overlaying. This will be the landing page image for all 3 pages and also for the "Confirmation" page that is displayed when user submits a request. </li>
 </ul>
 
-![Landing Page]()
+![Landing Page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/landing_image.PNG)
 
 #### Let us help plan your carefree holiday!
 
@@ -47,7 +47,7 @@ The user can find information on the website about the current offers, and they 
   <li>This section includes a video showcasing the facilities, services, and beautiful beach view of the Hotel Alcudia Pins, inviting the user to indulge in a delightful holiday gateway.  </li>
 </ul>
 
-![Let us help plan your carefree holiday]()
+![Let us help plan your carefree holiday](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/let_us_plan_your_carefree_holiday_section.PNG)
 
 #### Check out our offers section
 
@@ -56,7 +56,7 @@ The user can find information on the website about the current offers, and they 
   <li>This section includes also an “Offers” button which directs the user to the Offers page. This facilitates the user’s navigation to the “Offers” page without having to go back to the top of the page and click on the “Offers” navigation bar. </li>
 </ul>
 
-![Check out our offers ]()
+![Check out our offers ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/check_out_our_offers.png)
 
 #### Plus Flex pack section
 
@@ -65,7 +65,7 @@ The user can find information on the website about the current offers, and they 
   <li>Under this section there is a “Contact us” button that points the user to the contact us page. This facilitates user’s navigation on the website without having to scroll back up to the navigation bar. </li>
 </ul>
 
-![Plus Flex pack section]()
+![Plus Flex pack section](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/plus_flex_pack_section.PNG)
 
 #### The Footer
 
@@ -74,7 +74,7 @@ The user can find information on the website about the current offers, and they 
   <li>This section holds significance for user as it serves as an encouragement to stay connected through social media channels and be informed about the latest offers. </li>
 </ul>
 
-![Footer social media icons]()
+![Footer social media icons](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/footer_section.PNG)
 
 #### Offers page
 
@@ -83,14 +83,14 @@ The user can find information on the website about the current offers, and they 
   <li>There are three offers presented. On the left side the user can see an image of the Hotel destination. On the right side of the image the user can view information about the services included in each offer: destination, location, transport, hotel’s facilities, and pricing. </li>
 </ul>
 
-![First offer image]()
+![First offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page.PNG)
 
 <ul>
     <li>
     Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact us” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
 </ul>
 
-![Third offer image and contact us button]()
+![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_us_button%20.PNG)
 
 #### Contact us page
 
@@ -99,18 +99,18 @@ The user can find information on the website about the current offers, and they 
   <li>The fields first name, last name, email address and phone number are required fields to submit the request through the “Submit” button.</li>
 </ul>
 
-![contact us form and submit button]()
+![contact us form and submit button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/request_form.PNG)
 
 <ul>
   <li>The form will display a captivating image on the left side, with a car with surfboards on top encouraging the user to embark on a holiday.
   </li>
 </ul>
 
-![  ]()
+![Van with surfboards on top]()
 
 <ul>
   <li>At the bottom of the page under the form section, the user can find the company’s contact details. He can contact the agency directly instead of submitting a request.  
   </li>
 </ul>
 
-![ Contact us details ]()
+![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_details.PNG)
