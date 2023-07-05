@@ -106,7 +106,7 @@ The user can find information on the website about the current offers, and they 
   </li>
 </ul>
 
-![Van with surfboards on top]()
+![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/image_contactus_page.PNG)
 
 <ul>
   <li>At the bottom of the page under the form section, the user can find the company’s contact details. He can contact the agency directly instead of submitting a request.  
