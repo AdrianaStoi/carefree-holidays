@@ -187,7 +187,7 @@ h3 {
 
 #plus-flex-image {
     display: flex;
-    background-image: url('../images/image_plus_flex_tariff.avif');
+    background-image: url('../images/image_plus_flex_tariff.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -231,7 +231,7 @@ h3 {
 .container-contact-btn {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin: 3% 0%;
 
 }
 
@@ -255,8 +255,8 @@ h3 {
 /* Footer */
 
 footer {
-    height: 100px;
-
+    height: 20%;
+    margin: 3% 0% 3% 0%;
 }
 
 .social-media {
@@ -264,13 +264,13 @@ footer {
     justify-content: center;
     align-items: center;
     list-style: none;
-    text-decoration: none;
     gap: 10%;
+    text-decoration: none;
 }
 
 .social-media li {
-    margin: 80px 10px;
-    height: 50px;
+    margin: 20px 10px;
+    height: 30px;
 }
 
 i {
