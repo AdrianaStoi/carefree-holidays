@@ -193,8 +193,23 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
     <li> The layout, the features as navigation, links, buttons, form submission work as expected. Images are displayed correctly. </li>
 </ul>
 
-| Browser                                                                                   | Layout rendered as expected | Features as expected | Images as expected |
-| ----------------------------------------------------------------------------------------- | --------------------------- | -------------------- | ------------------ |
-| Google Chrome                                                                             | Yes                         | Yes                  | Yes                |
-| Edge                                                                                      | Yes                         | Yes                  | Yes                |
-| Mozilla                                                                                   | Yes                         | Yes                  | Yes                |
+| Browser       | Layout rendered as expected | Features as expected | Images as expected |
+| ------------- | --------------------------- | -------------------- | ------------------ |
+| Google Chrome | Yes                         | Yes                  | Yes                |
+| Edge          | Yes                         | Yes                  | Yes                |
+| Mozilla       | Yes                         | Yes                  | Yes                |
+
+### Unfixed Bugs
+
+<ul>
+    <li>No unfixed bugs.</li>
+</ul>
+
+### Lighthouse
+
+<ul>
+    <li>I tested performance, accessibility, best practice, and SEO in Lighthouse accessed via DevTools.</li>
+    <li>I have compressed images and resized some of them, however performance does not go over 85%. </li>
+</ul>
+
+![Lighthouse performance and accessibility]()
