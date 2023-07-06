@@ -133,3 +133,21 @@ The user can find information on the website about the current offers, and they 
   <li>Add more offers on the website.</li>
   <li>Add filter and search features to easily browse through the offers.</li>
 </ul>
+
+## Testing
+
+### Testing Responsiveness
+
+I used Chrome DevTools for testing responsiveness on desktop, tablets and smartphones.
+
+I tested on Surface Duo tablet (540x720 px) and iPhone 12 Pro (390x844px).
+
+The website maintains a consistent layout when viewed on a Surface Duo tablet tablet with screen of 540x720 px. When viewed on screens smaller than 768px, the side-by-side elements will be displayed in column.
+
+#### Home page
+
+#### Offers page
+
+#### Contact us page
+
+#### Confirmation page
