@@ -162,4 +162,22 @@ The website maintains a consistent layout when viewed on a Surface Duo tablet ta
 
 #### Confirmation page
 
-![Contact us form on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_confirmation_page.PNG)
+![Confirmation page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_confirmation_page.PNG)
+
+I tested as well on iPhone 12 Pro 390x844px the images and content are displayed correctly, as follows:
+
+#### Home page
+
+![Home page on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_pagePNG.PNG)
+
+#### Offers page
+
+![Offers on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_offers_page.PNG)
+
+#### Contact us page
+
+![Contact us form on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_form.PNG)
+
+#### Confirmation page
+
+![Confirmation page on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_confirmation_page.PNG)
