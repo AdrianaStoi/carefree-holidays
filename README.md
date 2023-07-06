@@ -168,16 +168,21 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 
 #### Home page
 
-![Home page on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_pagePNG.PNG)
+![Home page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_pagePNG.PNG)
 
 #### Offers page
 
-![Offers on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_offers_page.PNG)
+![Offers on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_offers_page.PNG)
 
 #### Contact us page
 
-![Contact us form on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_form.PNG)
+![Contact us form on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_form.PNG)
 
 #### Confirmation page
 
-![Confirmation page on iPhone Pro 12](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_confirmation_page.PNG)
+![Confirmation page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_confirmation_page.PNG)
+
+
+#### Responsiveness on devices
+
+![Table responsiveness devices]()
