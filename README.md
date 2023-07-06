@@ -221,16 +221,22 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 #### HTML Validator:
 
 <ul>
-    <li>Run index.html through W3C validator and received a warning on index.html code indicating there is no heading on a "<section>":</li>
-    <li>Removed the corresponding <section> tag from the index.html file. Refer to [commit e7dafd2](https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c)</li>
-    <li>Run the index.html code again in W3C validator. No warnings.</li>
+    <li>Run index.html through W3C validator and received a warning on index.html code indicating there is no heading on a "section"</li>
+
+![Warning w3c index.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/warning_index_page.PNG)
+
+<li>Removed the corresponding "section" tag from the index.html file. Refer to [commit e7dafd2](https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c)</li>
+<li>Run the index.html code again in W3C validator. No warnings.</li>
 
 </ul>
 <ul>
-    <li>Run offers.html through W3C validator and received and error for adding a "<div>" inside the "<ul>":</li>
-    <li>Fixed and took the <div> outside the <ul>. Made necessary changes in CSS for positioning the div correctly, refer to [commit 9400cc3](https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e)</li>
-    <li>Run the offer.html code again in W3C validator. There were no errors. </li>
-    <li>No errors or warnings in W3C validator for contactus.html and confirmation.html.</li>
+    <li>Run offers.html through W3C validator and received and error for adding a "div" inside the "ul":</li>
+
+![Error w3c offers.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/error_w3c_offers%20page.PNG)
+
+<li>Fixed and took the "div" outside the "ul". Made necessary changes in CSS for positioning the div correctly, refer to [commit 9400cc3](https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e)</li>
+<li>Run the offer.html code again in W3C validator. There were no errors.</li>
+<li>No errors or warnings in W3C validator for contactus.html and confirmation.html.</li>
 </ul>
 
 #### CSS Validator:
@@ -238,3 +244,32 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 <ul> 
     <li>No errors were found for style.css when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrianastoi.github.io%2Fcarefree-holidays%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)</li>
 </ul>
+
+### Manual Testing
+
+| Feature                                      | Expectation                                                                                                                                                                          | Action               | Outcome                                                                                                                                                                 |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Logo name (upper left corner)                | When hovering over it should display an orange underline and when clicked should bring back to Home page.                                                                            | Hover over and click | When hovering the logo name is correctly underlined; When clicked it leads to Home page.                                                                                |
+| Home navigation link (upper right corner)    | When hovering over it should display an orange underline and when clicked should bring back to Home page.                                                                            | Hover over and click | When hovering the logo name is correctly underlined; When clicked it leads to Home page.                                                                                |
+| Offers navigation link (upper right corner)  | When hovering over it should display an orange underline and when clicked should bring back to Offers page.                                                                          | Hover over and click | When hovering the logo name is correctly underlined; When clicked it leads to Offers page.                                                                              |
+| Contact navigation link (upper right corner) | When hovering over it should display an orange underline and when clicked should bring back to Contact page.                                                                         | Hover over and click | When hovering the logo name is correctly underlined; When clicked it leads to Contact page.                                                                             |
+| Video Youtube                                | When clicked the video should be opened in a new tab. The video should be automatically muted. The user should have the option to play, stop, mute, unmute and watch in full screen. | Click, play, pause   | When clicked the video is opened in Youtube in a new tab. The video is automatically muted. The video has the option play, stop, mute, unmute and watch in full screen. |
+| Offers button on home page                   | When hovering over the background should be white and the text orange and when clicked should lead to Offers page.                                                                   | Hover over and click | When hovering the background is white and the text orange; When clicked it leads to Offers page.                                                                        |
+| Contact us button on home page               | When hovering over the background should be white and the text orange and when clicked should lead to Contact us page.                                                               | Hover over and click | When hovering the background is white and the text orange; When clicked it leads to Contact us page.                                                                    |
+| Facebook icon footer (all site pages)        | When hovering over it should display an orange underline and when clicked the Facebook page should open page in a new tab.                                                           | Hover over and click | When hovering over the icon has an orange underline and when clicked the Facebook page opens page in a new tab.                                                         |
+| Instagram icon footer (all site pages)       | When hovering over it should display an orange underline and when clicked the Instagram page should open page in a new tab.                                                          | Hover over and click | When hovering over the icon has an orange underline and when clicked the Instagram page opens page in a new tab.|
+| Youtube icon footer(all site pages) | When hovering over it should display an orange underline and when clicked the Youtube page should open page in a new tab. | Hover over and click | When hovering over the icon has an orange underline and when clicked the Youtube page opens page in a new tab. |
+| Contact us on offers page | When hovering over the background should be white and the text orange and when clicked should lead to Contact us page. | Hover over and click | When hovering the background is white and the text orange; When clicked it leads to Contact us page. |
+| First name - contact us page | Enter First name. This should be a mandatory field. | Type text | It is possible to enter name and when trying to submit request without entering the First name, there is a message indicating the field should be filled in. |
+| Last name- - contact us page | Enter First name. This should be a mandatory field. | Type text | It is possible to enter name and when trying to submit request without entering the First name, there is a message indicating the field should be filled in. |
+| Email Address – contact us page | Enter email address. This should be a mandatory field. | Type email address | It is possible to enter name and when trying to submit request without entering the email address, there is a message indicating the field should be filled in. |
+| Telephone - contact us page | Enter phone number. This should be a mandatory field and should accept only numbers. | Type numbers | It is possible to enter phone number and when trying to submit request without entering the phone number, there is a message indicating the field should be filled in. |
+| Select offer - contact us page | Select among three dropdown offers available | Select from dropdown menu | Works as expected, it is possible to select one of the three options displayed. |
+| Number of nights - contact us page | User should be able to enter number or to be able to increase and decrease number from the arrows which should be displayed at the left side of the field. | Enter manually a number or increase decrease using up and down arrows to increase or decrease the value | When clicked in the field it is possible to enter manually a number or to increase and decrease number from the arrows which are displayed at the left side of the field. |
+| Departure date- contact us page | User should be able to select date from displayed calendar or should be able to enter the day, month, year manually. | When clicking on calendar it should be displayed and to have the option to choose the date or to enter numbers | When clicked on calendar icon the calendar is displayed and it is possible to choose a date, or it is possible to enter the date manually. |
+| Number of travelers- contact us page | User should be able to enter number or to be able to increase and decrease number from the arrows which should be displayed at the left side of the field. | Enter manually a number or increase decrease using up and down arrows to increase or decrease the value | When clicked in the field it is possible to enter manually a number or to increase and decrease number from the arrows which are displayed at the left side of the field. |
+| Plus Flex Tariff- contact us page | When clicked it should display a dropdown menu with options “yes” and “no”. | Select “yes” or “no” from dropdown menu | When clicked the dropdown menu is displayed and select one of the two options “yes” or “no”. |
+| Subscribe to our newsletter- contact us page | When clicked there should be possible to check and uncheck the box. | Click to check and uncheck the box | When clicked the box can be checked or unchecked. |
+| Send us a message- contact us page | Text box for typing message |Text box | Works as expected. Text box is available, and it is possible to type message. |
+| Submit button - contact us page | When hovering over the background should be white and the text orange and when clicked if the required fields are filled in it should lead to Confirmation page. When the required fields are not filled in a message should be displayed on the corresponding field stating it must be field in to submit the request. | Hover over and click | Button works as expected. When hovering the background is white and the text orange; When clicked if all required fields are filled in the confirmation page is displayed.
+When required fields are empty there is a message indicating they must be filled in and prevents from submitting the request.|
