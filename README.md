@@ -85,12 +85,14 @@ The user can find information on the website about the current offers, and they 
 
 ![First offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page.PNG)
 
+![Second offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_second_offer.PNG)
+
 <ul>
     <li>
     Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact us” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
 </ul>
 
-![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_us_button%20.PNG)
+![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_contact_us_button.PNG)
 
 #### Contact us page
 
@@ -114,6 +116,15 @@ The user can find information on the website about the current offers, and they 
 </ul>
 
 ![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_details.PNG)
+
+#### Confirmation page
+
+<ul>
+  <li>Once the user submits a request, they are directed to the confirmation page with a thank you message and they are informed that they will be contacted soon.   
+  </li>
+</ul>
+
+![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/confirmation_page.PNG)
 
 #### Future features
 
