@@ -684,6 +684,7 @@ td {
     }
 }
 
+/* Media queries for Surface Duo -540px */
 @media screen and (max-width: 600px) {
 
     body {
