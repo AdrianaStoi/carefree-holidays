@@ -142,12 +142,24 @@ I used Chrome DevTools for testing responsiveness on desktop, tablets and smartp
 
 I tested on Surface Duo tablet (540x720 px) and iPhone 12 Pro (390x844px).
 
-The website maintains a consistent layout when viewed on a Surface Duo tablet tablet with screen of 540x720 px. When viewed on screens smaller than 768px, the side-by-side elements will be displayed in column.
+The website maintains a consistent layout when viewed on a Surface Duo tablet tablet with screen of 540x720 px. When viewed on screens smaller than 768px, the side-by-side elements will be displayed in column:
 
 #### Home page
 
+![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home_page.PNG)
+
+![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home.PNG)
+
 #### Offers page
+
+![First two offers on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home_page.PNG)
+
+![Third offer on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_third_offer.PNG)
 
 #### Contact us page
 
+![Contact us form on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_contact_form.PNG)
+
 #### Confirmation page
+
+![Contact us form on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_confirmation_page.PNG)
