@@ -6,6 +6,8 @@ The Summer 2023-2024 packages have as destination Tunisia, Croatia, and Spain. T
 Carefree Holiday site is targeted to any customer that is looking for a holiday planed from transport, hotel, meals to entertainment and cultural experiences.
 The user can find information on the website about the current offers, and they can submit a non-binding request. They have also the option to subscribe to the newsletter and receive the latest offers by email.
 
+Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
+
 ![Responsive](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/carefree_holiday_responsive.PNG)
 
 ## User Stories
@@ -208,8 +210,31 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 ### Lighthouse
 
 <ul>
-    <li>I tested performance, accessibility, best practice, and SEO in Lighthouse accessed via DevTools.</li>
+    <li>I tested performance, accessibility, best practice, and SEO in Lighthouse accessed via Google Chrome DevTools.</li>
     <li>I have compressed images and resized some of them, however performance does not go over 85%. </li>
 </ul>
 
-![Lighthouse performance and accessibility]()
+![Lighthouse performance and accessibility](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/lighthouse_carefree_holiday.PNG)
+
+### Code Validation
+
+#### HTML Validator:
+
+<ul>
+    <li>Run index.html through W3C validator and received a warning on index.html code indicating there is no heading on a "<section>":</li>
+    <li>Removed the corresponding <section> tag from the index.html file. Refer to [commit e7dafd2](https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c)</li>
+    <li>Run the index.html code again in W3C validator. No warnings.</li>
+
+</ul>
+<ul>
+    <li>Run offers.html through W3C validator and received and error for adding a "<div>" inside the "<ul>":</li>
+    <li>Fixed and took the <div> outside the <ul>. Made necessary changes in CSS for positioning the div correctly, refer to [commit 9400cc3](https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e)</li>
+    <li>Run the offer.html code again in W3C validator. There were no errors. </li>
+    <li>No errors or warnings in W3C validator for contactus.html and confirmation.html.</li>
+</ul>
+
+#### CSS Validator:
+
+<ul> 
+    <li>No errors were found for style.css when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrianastoi.github.io%2Fcarefree-holidays%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)</li>
+</ul>
