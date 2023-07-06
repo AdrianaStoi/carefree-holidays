@@ -198,4 +198,3 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 | Google Chrome                                                                             | Yes                         | Yes                  | Yes                |
 | Edge                                                                                      | Yes                         | Yes                  | Yes                |
 | Mozilla                                                                                   | Yes                         | Yes                  | Yes                |
-| ----------------------------------------------------------------------------------------- |
