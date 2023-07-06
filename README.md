@@ -182,7 +182,20 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 
 ![Confirmation page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_confirmation_page.PNG)
 
-
 #### Responsiveness on devices
 
-![Table responsiveness devices]()
+![Table responsiveness devices](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/responsiveness_devices.PNG)
+
+### Browser Compatibility
+
+<ul>
+    <li>I tested the site on different browsers Google Chrome, Edge and Mozilla.</li>
+    <li> The layout, the features as navigation, links, buttons, form submission work as expected. Images are displayed correctly. </li>
+</ul>
+
+| Browser                                                                                   | Layout rendered as expected | Features as expected | Images as expected |
+| ----------------------------------------------------------------------------------------- | --------------------------- | -------------------- | ------------------ |
+| Google Chrome                                                                             | Yes                         | Yes                  | Yes                |
+| Edge                                                                                      | Yes                         | Yes                  | Yes                |
+| Mozilla                                                                                   | Yes                         | Yes                  | Yes                |
+| ----------------------------------------------------------------------------------------- |
