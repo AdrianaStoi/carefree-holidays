@@ -221,12 +221,6 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 | Edge          | Yes                         | Yes                  | Yes                |
 | Mozilla       | Yes                         | Yes                  | Yes                |
 
-### Unfixed Bugs
-
-<ul>
-    <li>No unfixed bugs.</li>
-</ul>
-
 ### Lighthouse
 
 <ul>
@@ -303,3 +297,22 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 | As a user, I would like to submit a request and find out more about the offers.                                               | <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>                                       |
 | As a user, I would like to subscribe to the newsletter and be informed about the upcoming travel offers.                      | <ul><li>To subscribe to newsletter, go to “Contact” page be accessed through the navigation bar at the right top corner or through the “Contact us” buttons.</li><li>Fill in the required fields, “First name”, “Last name”, “Email address”, “Phone number”, check the box Subscribe to Newsletter and click on “Submit”.</li></ul>                                                                                              |
 | As a user, I would like to see a displayed confirmation indicating that my message is being received.                         | <ul><li>When the form is filled an you click on “Submit” button, you are directed to a “Confirmation” page. </li></ul>                                                                                                                                                                                                                                                                                                            |
+
+### Unfixed Bugs
+
+<ul>
+    <li>No unfixed bugs.</li>
+</ul>
+
+## Deployment
+
+<ul>
+    <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
+    <li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the Contact us page that appears in the wireframe has been omitted from the site. </li>
+    <li>The site was created using editor Codeanywhere. Skillset used for the project were HTML and CSS. </li>
+    <li>I kept commit history through Gitpod commit messages and deployed the site to GitHub pages. The steps to deploy site to GitHub are the following:</li>
+           <ul><li>From the GitHub repository, navigate to the Settings tab </li>
+    	    <li>Then click on “Pages” located in the left-hand side</li>
+	        <li>From the Branch section, click on “none” and select “main” and click on “Save”</li>
+	        <li>After choosing the main branch, after a few minutes the website is live and the link to access it is displayed at the top of the page.</li></ul>
+</ul>
