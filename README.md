@@ -106,8 +106,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
 ![contact us form and submit button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/request_form.PNG)
 
 <ul>
-  <li>The form will display a captivating image on the left side, with a car with surfboards on top encouraging the user to embark on a holiday.
-  </li>
+  <li>The form will display a captivating image on the left side, with a car with surfboards on top encouraging the user to embark on a holiday.</li>
 </ul>
 
 ![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/image_contactus_page.PNG)
@@ -134,6 +133,27 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>Create a page for each offer by providing more details about the destination and possible activities.</li>
   <li>Add more offers on the website.</li>
   <li>Add filter and search features to easily browse through the offers.</li>
+</ul>
+
+## Typography and color scheme
+
+### Color scheme
+
+Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
+
+<ul>
+    <li>For page background the pale orange color #fff5ee was used.</li>
+    <li>For the content the color utilized was #25292c for a better contrast with the background.</li>
+    <li>On content that is overlaying on background images it was used the color of the body background #fff5ee.</li>
+    <li>For the buttons it was utilized the orange #ff7e28. This hue was employed as well when hovering over the nav bar, social media icons and as border for the request form.</li>
+    <li>When hovering over all buttons the background-color is changed to white, and the border and the text are changed to #ff7e28.</li>
+    <li>The submit form has a background color #f0dbcd opacity (0.9). It is a light shade of orange and it was applied to maintain harmony in overall design and create a unified look.</li>
+</ul>
+
+### Fonts
+
+<ul>
+    <li>Fonts applied to the site : 'Roboto' (for headings) 'Nunito' (for content) and “sans-serif” as alternative font.</li>
 </ul>
 
 ## Testing
@@ -275,11 +295,11 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 
 ### User Story Testing
 
-| User Story                                                                                                                    | Testing                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User Story                                                                                                                    | Testing                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | As a user, I would like to know information about the Carefree Holiday travel agency and what services they offer.            | <ul><li>The information about the company, general information about the services offered can be found on the home page. There are three sections on the page.</li><li> First section provides information about the company </li><li>Second section informs the user about the options available, and the packages offered.</li><li>The third section provides details about a new service for cancelation and rebook.</li></ul> |
-| As a user, I would like to be able to easily navigate on the website from page to page.| <ul><li>It is possible to navigate from page to page from the navigation links located in the upper right corner.</li><li> It is also possible tp navigate from page to page through buttons displayed conveniently in the different sections of the page without having to scroll to the top of the page. </li></ul>|
-| As a user, I would like to know more about the available travel offers, destinations, services included and hotel facilities. | <ul><li>Details about the services and offers can be found in the “Offers” page.</li><li>The “Offers” page can be accessed either through the navigation bar at the right corner or from the home page in the “Check out our offers” section.</li></ul>|
-| As a user, I would like to submit a request and find out more about the offers.| <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>|
-| As a user, I would like to subscribe to the newsletter and be informed about the upcoming travel offers.| <ul><li>To subscribe to newsletter, go to “Contact” page be accessed through the navigation bar at the right top corner or through the “Contact us” buttons.</li><li>Fill in the required fields, “First name”, “Last name”, “Email address”, “Phone number”, check the box Subscribe to Newsletter and click on “Submit”.</li></ul>|
-| As a user, I would like to see a displayed confirmation indicating that my message is being received.| <ul><li>When the form is filled an you click on “Submit” button, you are directed to a “Confirmation” page. </li></ul> |
+| As a user, I would like to be able to easily navigate on the website from page to page.                                       | <ul><li>It is possible to navigate from page to page from the navigation links located in the upper right corner.</li><li> It is also possible tp navigate from page to page through buttons displayed conveniently in the different sections of the page without having to scroll to the top of the page. </li></ul>                                                                                                             |
+| As a user, I would like to know more about the available travel offers, destinations, services included and hotel facilities. | <ul><li>Details about the services and offers can be found in the “Offers” page.</li><li>The “Offers” page can be accessed either through the navigation bar at the right corner or from the home page in the “Check out our offers” section.</li></ul>                                                                                                                                                                           |
+| As a user, I would like to submit a request and find out more about the offers.                                               | <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>                                       |
+| As a user, I would like to subscribe to the newsletter and be informed about the upcoming travel offers.                      | <ul><li>To subscribe to newsletter, go to “Contact” page be accessed through the navigation bar at the right top corner or through the “Contact us” buttons.</li><li>Fill in the required fields, “First name”, “Last name”, “Email address”, “Phone number”, check the box Subscribe to Newsletter and click on “Submit”.</li></ul>                                                                                              |
+| As a user, I would like to see a displayed confirmation indicating that my message is being received.                         | <ul><li>When the form is filled an you click on “Submit” button, you are directed to a “Confirmation” page. </li></ul>                                                                                                                                                                                                                                                                                                            |
