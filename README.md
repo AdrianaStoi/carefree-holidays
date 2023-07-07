@@ -309,10 +309,51 @@ I tested as well on iPhone 12 Pro 390x844px the images and content are displayed
 <ul>
     <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
     <li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the Contact us page that appears in the wireframe has been omitted from the site. </li>
+    <li>The wireframe can be found here: [Balsamiq Wareframes-Carefree Holidays](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/Documentation/balsamiq_wireframes_carefree_holidays.pdf) 
     <li>The site was created using editor Codeanywhere. Skillset used for the project were HTML and CSS. </li>
-    <li>I kept commit history through Gitpod commit messages and deployed the site to GitHub pages. The steps to deploy site to GitHub are the following:</li>
+    <li>I kept commit history through Gitpod commit messages and deployed the site to GitHub pages.</li> 
+    <li>The steps to deploy site to GitHub are the following:</li>
            <ul><li>From the GitHub repository, navigate to the Settings tab </li>
     	    <li>Then click on “Pages” located in the left-hand side</li>
 	        <li>From the Branch section, click on “none” and select “main” and click on “Save”</li>
 	        <li>After choosing the main branch, after a few minutes the website is live and the link to access it is displayed at the top of the page.</li></ul>
+    <li>You can find the active link here: https://adrianastoi.github.io/carefree-holidays/</li>
 </ul>
+
+## Credits
+
+<ul>
+<li>Fonts were taken from: https://fonts.googleapis.com </li>
+<li>Font Pairing suggestion: https://www.pagecloud.com/blog/best-google-fonts-pairings</li>
+<li>The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)</li>
+<li>The Hotels’ facilities content indicated under the "Offers" page were taken from the site for educational purposes:  https://www.tui.com/ </li>
+</ul>
+
+## Media
+
+<ul>
+<li>Video link from Home page was taken from youtube: https://www.youtube.com/watch?v=Wvs9fECfiPQ&ab_channel=ReiselandGmbH </li>
+<li>The photos used for the site were taken form the following resources: </li>
+ </ul>
+
+### Home Page
+
+ <ul>
+<li>Landing image was taken from the open source site - Photo by Hugh Whyte on Unsplash : https://unsplash.com/photos/SBOHLtENzEY</li>
+<li>Second photo on the home page was taken from the open source site - Photo by Marc Doucakis on Unsplash : https://unsplash.com/photos/IhXYfHEbN5c</li>
+<li>Home page image next to additional Plus Flex pack- https://unsplash.com/photos/OCX-FU4RRiw</li>
+ </ul>
+
+### Offers Page
+
+ <ul>
+<li>Hotel PrimaSol El Mehdi was taken from the travel agency’s site for educational purposes -  https://www.tui.com/hotels/primasol-el-mehdi-11974/hotelinformation/?coopid=SEM_TUI_G_35_DSA_S_HN&gclid=Cj0KCQjwqNqkBhDlARIsAFaxvwxYxuV54pkm17tCJ0fM8Uhp8wxmZe5DOR19QdC9ugXCvJI6tYyi2f8aAnD-EALw_wcB&gclsrc=aw.ds</li>
+<li>Hotel Alcudia Pins was taken from the travel agency’s site for educational purposes: https://www.tui-blue.com/en/en/hotels/tui-blue-alcudia-pins/?fbclid=IwAR1g5BV4GBVFYhjQbcJ2gvsRsBwBDN0ireR1fMcZ3bTjXx1n6yuL5JxMo0M#c831</li>
+<li>Girandella Resort Valamar collection was taken from Hotel’s Facebook for educational purposes: https://www.facebook.com/photo/?fbid=632108615612962&set=a.604745841682573</li>
+ </ul>
+
+### Contact us page
+
+ <ul>
+<li>Image next to the request form was taken from the open source site: Photo by Tyler Nix on Unsplash - https://unsplash.com/photos/6mze64HRU2Q </li>
+ </ul>
