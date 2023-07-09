@@ -172,7 +172,7 @@ h3 {
 }
 
 .offer-btn:hover {
-    background-color: white;
+    background-color: #ffffff;
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
@@ -248,7 +248,7 @@ h3 {
 }
 
 .contact-btn:hover {
-    background-color: white;
+    background-color: #ffffff;
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
@@ -474,7 +474,7 @@ form textarea {
 }
 
 #submit-btn:hover {
-    background-color: white;
+    background-color: #ffffff;
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
@@ -812,6 +812,7 @@ td {
 
     table {
         width: 85%;
+        padding: 20px 30px;
     }
 }
 
