@@ -173,7 +173,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 <ul>
 <li>I used Chrome DevTools for testing responsiveness on desktop, tablets and smartphones.</li>
 
-<li>I tested on Surface Duo tablet (540x720 px) and iPhone 12 Pro (390x844px).When viewed on screens smaller than 768px, the side-by-side elements will be displayed in column.</li>
+<li>I tested on Surface Duo tablet (540x720 px) and iPhone 12 Pro (390x844px).When viewed on screens smaller than 768px, all side-by-side elements will be displayed in column.</li>
 
 #### Surface Duo
 

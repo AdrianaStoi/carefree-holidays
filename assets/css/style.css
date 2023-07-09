@@ -527,14 +527,20 @@ td {
         margin-left: 0px;
     }
 
-    #hotel-alcudia,
+    #hotel-primasol,
+    #hotel-alcudia {
+        margin-top: 0%;
+        margin-bottom: 3%;
+    }
+
+
     #hotel-girandella {
         margin-top: 0%;
-        margin-bottom: 6%;
+        margin-bottom: 7%;
     }
 
     .services-offers {
-        padding-top: 0px;
+        padding-top: 2%;
     }
 
     .services-offers h3 {
@@ -552,6 +558,21 @@ td {
 
 @media screen and (max-width: 1024px) {
 
+    .services-offers {
+        padding-top: 3%;
+    }
+
+    #hotel-primasol,
+    #hotel-alcudia {
+        margin-top: 0%;
+        margin-bottom: 5%;
+    }
+
+    #hotel-girandella {
+        margin-top: 0%;
+        margin-bottom: 12%;
+    }
+
     form>textarea {
         width: 60%;
     }
@@ -559,6 +580,7 @@ td {
     form label {
         font-size: 110%;
     }
+
 }
 
 /* Media queries for Surface Pro 7 - 912px */
