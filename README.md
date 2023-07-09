@@ -90,8 +90,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
 ![Second offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_second_offer.PNG)
 
 <ul>
-    <li>
-    Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
+    <li>Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
 </ul>
 
 ![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_contact_us_button.PNG)
@@ -154,6 +153,17 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 <ul>
     <li>Fonts applied to the site : 'Roboto' (for headings) 'Nunito' (for content) and “sans-serif” as alternative font.</li>
+</ul>
+
+## Technology
+
+<ul>
+    <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
+        <ul><li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the "Contact" page that appears in the wireframe has been omitted from the site. </li>
+        <li>The wireframe can be found here: Balsamiq Wareframes-Carefree Holidays:https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/Documentation/balsamiq_wireframes_carefree_holidays.pdf 
+        </ul>
+    <li>The site was created using the editor Codeanywhere. Skillset used for the project were HTML and CSS.</li>
+    <li> The site was deployed to Github Pages and deployment history was maintained through Git commit messages. </li>
 </ul>
 
 ## Testing
@@ -250,7 +260,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 ![Warning w3c index.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/warning_index_page.PNG)
 
-<li>Removed the corresponding "section" tag from the index.html file. Refer to [commit e7dafd2](https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c)</li>
+<li>Removed the corresponding "section" tag from the index.html file. Refer to commit e7dafd2:https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c</li>
 <li>Run the index.html code again in W3C validator. No warnings.</li>
 
 </ul>
@@ -262,7 +272,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 ![Error w3c offers.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/error_w3c_offers%20page.PNG)
 
-<li>Fixed and took the "div" outside the "ul". Made necessary changes in CSS for positioning the div correctly, refer to [commit 9400cc3](https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e)</li>
+<li>Fixed and took the "div" outside the "ul". Made necessary changes in CSS for positioning the div correctly, refer to commit 9400cc3:https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e</li>
 <li>Run the offer.html code again in W3C validator. There were no errors.</li>
 </ul>
 
@@ -275,7 +285,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 #### CSS Validator:
 
 <ul> 
-    <li>No errors were found for style.css when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrianastoi.github.io%2Fcarefree-holidays%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)</li>
+    <li>No errors were found for style.css when passing through the official Jigsaw validator: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrianastoi.github.io%2Fcarefree-holidays%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en</li>
 </ul>
 
 ### Manual Testing
@@ -326,11 +336,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 ## Deployment
 
 <ul>
-    <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
-    <li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the "Contact" page that appears in the wireframe has been omitted from the site. </li>
-    <li>The wireframe can be found here: Balsamiq Wareframes-Carefree Holidays:https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/Documentation/balsamiq_wireframes_carefree_holidays.pdf 
-    <li>The site was created using the editor Codeanywhere. Skillset used for the project were HTML and CSS. </li>
-    <li>Commit history was maintained through Gitpod commit messages and  the site was deployed to GitHub pages.</li> 
+    <li>Commit history was maintained through Git commit messages and  the site was deployed to GitHub pages.</li> 
     <li>The steps to deploy site to GitHub are the following:</li>
            <ul><li>From the GitHub repository, navigate to the "Settings" tab </li>
     	    <li>Then click on “Pages” located in the left-hand side</li>
