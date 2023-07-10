@@ -8,7 +8,7 @@ The user can find information on the website about the current offers, and they 
 
 Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
 
-![Responsive](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/carefree_holiday_responsive.PNG)
+![Responsive](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/carefree_holiday_responsive.PNG)
 
 ## User Stories
 
@@ -32,7 +32,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>With this feature the user can navigate from page to page and does not have to use back to revert to the previous page. The navigation bar can be used on all device types: desktop, tablet, and smartphones.</li>
 </ul>
 
-![Navigation bar](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/navigation_bar.PNG)
+![Navigation bar](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/navigation_bar.PNG)
 
 #### Landing Page image
 
@@ -40,7 +40,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>The landing page includes a picture with beach and sand with the company’s name overlaying. This will be the landing page image for all 3 pages and also for the "Confirmation" page that is displayed when user submits a request. </li>
 </ul>
 
-![Landing Page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/landing_image.PNG)
+![Landing Page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/landing_image.PNG)
 
 #### Let us help plan your carefree holiday!
 
@@ -49,7 +49,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>This section includes a video showcasing the facilities, services, and beautiful beach view of the Hotel Alcudia Pins, inviting the user to indulge in a delightful holiday gateway.  </li>
 </ul>
 
-![Let us help plan your carefree holiday](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/let_us_plan_your_carefree_holiday_section.PNG)
+![Let us help plan your carefree holiday](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/let_us_plan_your_carefree_holiday_section.PNG)
 
 #### Check out our offers section
 
@@ -58,7 +58,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>This section includes also an “Offers” button which directs the user to the "Offers" page. This facilitates the user’s navigation to the “Offers” page without having to go back to the top of the page and click on the “Offers” navigation bar. </li>
 </ul>
 
-![Check out our offers ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/check_out_our_offers.png)
+![Check out our offers ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/check_out_our_offers.png)
 
 #### Plus Flex pack section
 
@@ -67,7 +67,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>Under this section there is a “Contact us” button that points the user to the "Contact" page. This facilitates user’s navigation on the website without having to scroll back up to the navigation bar. </li>
 </ul>
 
-![Plus Flex pack section](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/plus_flex_pack_section.PNG)
+![Plus Flex pack section](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/plus_flex_pack_section.PNG)
 
 #### The Footer
 
@@ -76,7 +76,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>This section holds significance for user as it serves as an encouragement to stay connected through social media channels and be informed about the latest offers. </li>
 </ul>
 
-![Footer social media icons](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/footer_section.PNG)
+![Footer social media icons](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/footer_section.PNG)
 
 #### Offers page
 
@@ -85,15 +85,15 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>There are three offers presented. On the left side the user can see an image of the Hotel destination. On the right side of the image the user can view information about the services included in each offer: destination, location, transport, hotel’s facilities, and pricing. </li>
 </ul>
 
-![First offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page.PNG)
+![First offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/offers_page.PNG)
 
-![Second offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_second_offer.PNG)
+![Second offer image](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/offers_page_second_offer.PNG)
 
 <ul>
     <li>Below this section, after the last offer, the user can find a “Contact us” button that directs him to the “Contact” page. This enables seamless navigation on the website, eliminating the need to scroll back up to the navigation bar. </li>
 </ul>
 
-![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/offers_page_contact_us_button.PNG)
+![Third offer image and contact us button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/offers_page_contact_us_button.PNG)
 
 #### Contact page
 
@@ -108,14 +108,14 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>The form will display a captivating image on the left side, with a car with surfboards on top encouraging the user to embark on a holiday.</li>
 </ul>
 
-![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/image_contactus_page.PNG)
+![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/request_form.PNG)
 
 <ul>
   <li>At the bottom of the page under the form section, the user can find the company’s contact details. Users can contact the agency directly instead of submitting a request.  
   </li>
 </ul>
 
-![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/contact_details.PNG)
+![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/contact_details.PNG)
 
 #### Confirmation page
 
@@ -124,7 +124,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   </li>
 </ul>
 
-![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/confirmation_page.PNG)
+![ Contact us details ](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/confirmation_page.PNG)
 
 #### Future features
 
@@ -160,7 +160,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 <ul>
     <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
         <ul><li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the "Contact" page that appears in the wireframe has been omitted from the site. </li>
-        <li>The wireframe can be found here: Balsamiq Wareframes-Carefree Holidays:https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/Documentation/balsamiq_wireframes_carefree_holidays.pdf 
+        <li>The wireframe can be found here: Balsamiq Wareframes-Carefree Holidays:https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/balsamiq_wireframes_carefree_holidays.pdf
         </ul>
     <li>The site was created using the editor Codeanywhere. Skillset used for the project were HTML and CSS.</li>
     <li> The site was deployed to Github Pages and deployment history was maintained through Git commit messages. </li>
@@ -181,23 +181,23 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 #### Home page
 
-![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home_page.PNG)
+![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_home_page.PNG)
 
-![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home.PNG)
+![Home page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_home.PNG)
 
 #### Offers page
 
-![First two offers on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_home_page.PNG)
+![First two offers on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_offers.PNG)
 
-![Third offer on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_third_offer.PNG)
+![Third offer on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_third_offer.PNG)
 
 #### Contact us page
 
-![Contact us form on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_contact_form.PNG)
+![Contact us form on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_contact_form.PNG)
 
 #### Confirmation page
 
-![Confirmation page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/surface_duo_confirmation_page.PNG)
+![Confirmation page on Surface Duo](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/surface_duo_confirmation_page.PNG)
 
 #### iPhone 12 Pro
 
@@ -205,19 +205,19 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 #### Home page
 
-![Home page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_pagePNG.PNG)
+![Home page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_page.PNG)
 
 #### Offers page
 
-![Offers on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_offers_page.PNG)
+![Offers on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/iphone_offers_page.PNG)
 
 #### Contact us page
 
-![Contact us form on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_form.PNG)
+![Contact us form on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/iphone_form.PNG)
 
 #### Confirmation page
 
-![Confirmation page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_confirmation_page.PNG)
+![Confirmation page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/iphone_pro_confirmation_page.PNG)
 
 #### Responsiveness on devices
 
@@ -247,7 +247,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
     <li>I have compressed images and resized some of them, however performance does not go over 85%. </li>
 </ul>
 
-![Lighthouse performance and accessibility](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/lighthouse_carefree_holiday.PNG)
+![Lighthouse performance and accessibility](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/lighthouse_carefree_holiday.PNG)
 
 ### Code Validation
 
@@ -258,7 +258,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 <ul>
     <li>Run index.html through W3C validator and received a warning on index.html code indicating there is no heading on a "section"</li>
 
-![Warning w3c index.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/warning_index_page.PNG)
+![Warning w3c index.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/warning_index_page.PNG)
 
 <li>Removed the corresponding "section" tag from the index.html file. Refer to commit e7dafd2:https://github.com/AdrianaStoi/carefree-holidays/commit/e7dafd2423a7b7f457e41025abde0ef0e9c9fc2c</li>
 <li>Run the index.html code again in W3C validator. No warnings.</li>
@@ -270,7 +270,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 <ul>
     <li>Run offers.html through W3C validator and received and error for adding a "div" inside the "ul":</li>
 
-![Error w3c offers.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/error_w3c_offers%20page.PNG)
+![Error w3c offers.html page](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/error_w3c_offers%20page.PNG)
 
 <li>Fixed and took the "div" outside the "ul". Made necessary changes in CSS for positioning the div correctly, refer to commit 9400cc3:https://github.com/AdrianaStoi/carefree-holidays/commit/9400cc39514a5c6d66b83fb70becc67a45882b2e</li>
 <li>Run the offer.html code again in W3C validator. There were no errors.</li>
@@ -285,7 +285,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 #### CSS Validator:
 
 <ul> 
-    <li>No errors were found for style.css when passing through the official Jigsaw validator: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrianastoi.github.io%2Fcarefree-holidays%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en</li>
+    <li>No errors were found for style.css when passing through the official Jigsaw validator: https://jigsaw.w3.org/css-validator/validator</li>
 </ul>
 
 ### Manual Testing
