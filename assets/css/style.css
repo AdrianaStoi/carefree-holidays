@@ -39,7 +39,6 @@ h1 {
     font-size: 150%;
     font-weight: 300;
     color: #25292c;
-
 }
 
 .nav-link-heading:link {
@@ -68,7 +67,6 @@ h1 {
     height: 650px;
     width: 100%;
     margin-top: 0px;
-
 }
 
 .landing-image h2 {
@@ -103,7 +101,6 @@ h3 {
     list-style: none;
     margin: 0px;
     padding: 0px;
-
 }
 
 .plan-holiday p {
@@ -120,8 +117,6 @@ h3 {
     display: flex;
     flex-direction: column;
     margin: auto;
-
-
 }
 
 /* Check out our offers section / styling of image and text*/
@@ -233,7 +228,6 @@ h3 {
     display: flex;
     justify-content: center;
     margin: 3% 0%;
-
 }
 
 .contact-btn {
@@ -295,18 +289,6 @@ i:hover {
     padding: 0px;
 }
 
-#hotel-primasol {
-    display: flex;
-    background-image: url('../images/hotel_primasol_elmehdi_first_offer.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    width: 40%;
-    height: 450px;
-    padding: 0px 0px;
-    margin: 50px 0px 20px 0px;
-}
-
 .services-offers {
     display: flex;
     flex-direction: column;
@@ -352,7 +334,21 @@ i:hover {
     font-weight: 1000;
 }
 
-/* Style for the image of the second offer */
+/* Style first offer image */
+
+#hotel-primasol {
+    display: flex;
+    background-image: url('../images/hotel_primasol_elmehdi_first_offer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 40%;
+    height: 450px;
+    padding: 0px 0px;
+    margin: 50px 0px 20px 0px;
+}
+
+/* Style second offer image */
 
 #hotel-alcudia {
     display: flex;
@@ -366,7 +362,7 @@ i:hover {
     margin: 50px 0px 20px 0px;
 }
 
-/* Style for the image of the third offer */
+/* Style third offer image*/
 
 #hotel-girandella {
     display: flex;
@@ -425,7 +421,6 @@ form label {
     font-weight: 600;
     color: #25292c;
     padding-top: 20px;
-
 }
 
 .text-form,
@@ -435,7 +430,6 @@ form textarea {
     font-weight: 600;
     color: #25292c;
 }
-
 
 form h2 {
     font-family: Roboto, sans-serif;
@@ -459,7 +453,6 @@ form textarea {
     margin-top: 2%;
 }
 
-
 #submit-btn {
     background-color: #ff7e28;
     font-family: Nunito, sans-serif;
@@ -478,6 +471,8 @@ form textarea {
     color: #ff7e28;
     border: 1px solid #ff7e28;
 }
+
+/* Contact details table */
 
 table {
     font-family: Nunito, sans-serif;
@@ -529,10 +524,9 @@ td {
 
     #hotel-primasol,
     #hotel-alcudia {
-        margin-top: 0%;
-        margin-bottom: 3%;
+        margin-top: %;
+        margin-bottom: 4%;
     }
-
 
     #hotel-girandella {
         margin-top: 0%;
@@ -558,10 +552,6 @@ td {
 
 @media screen and (max-width: 1024px) {
 
-    .services-offers {
-        padding-top: 3%;
-    }
-
     #hotel-primasol,
     #hotel-alcudia {
         margin-top: 0%;
@@ -580,7 +570,6 @@ td {
     form label {
         font-size: 110%;
     }
-
 }
 
 /* Media queries for Surface Pro 7 - 912px */
@@ -851,7 +840,6 @@ td {
     h1 {
         font-size: 110%;
         padding-top: 5%;
-
     }
 
     .nav-links {
@@ -917,5 +905,4 @@ td {
         padding-top: 5px;
         padding-bottom: 5px;
     }
-
 }
