@@ -1,9 +1,9 @@
-# Carefree Holiday
+# Carefree Holidays
 
-Carefree Holiday is a site for a startup Travel agency offering customers information about seasonal package tours so they can enjoy the holiday and have a carefree experience.
+Carefree Holidays is a site for a startup Travel agency offering customers information about seasonal package tours so they can enjoy the holiday and have a carefree experience.
 The Summer 2023-2024 packages have as destination Tunisia, Croatia, and Spain. The site is updated regularly with current offers and provides the opportunity to submit a request and to inquire also about early bird packages for the following year.
 
-Carefree Holiday site is targeted to any customer that is looking for a holiday planed from transport, hotel, meals to entertainment and cultural experiences.
+Carefree Holidays site is targeted to any customer that is looking for a holiday planed from transport, hotel, meals to entertainment and cultural experiences.
 The user can find information on the website about the current offers, and they can submit a non-binding request. They also have the option to subscribe to the newsletter and receive the latest offers by email.
 
 Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
@@ -13,7 +13,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
 ## User Stories
 
 <ul>
-  <li>As a user, I would like to know information about the Carefree Holiday travel agency and what services they offer.</li>
+  <li>As a user, I would like to know information about the Carefree Holidays travel agency and what services they offer.</li>
   <li>As a user, I would like to be able to easily navigate on the website from page to page.</li>
   <li>As a user, I would like to know more about the available travel offers, destinations, services included and hotel facilities.</li>
   <li>As a user, I would like to submit a request and find out more about the offers.</li>
@@ -72,7 +72,7 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
 #### The Footer
 
 <ul>
-  <li>In the footer section, the user will find link to the Carefree Holiday’s relevant social media sites Facebook, Instagram and Youtube. The icons will display an orange underline when the user hovers over them. When user clicks on these links, they will open in a new tab, providing the user with effortless navigation.</li>
+  <li>In the footer section, the user will find link to the Carefree Holidays' relevant social media sites Facebook, Instagram and Youtube. The icons will display an orange underline when the user hovers over them. When user clicks on these links, they will open in a new tab, providing the user with effortless navigation.</li>
   <li>This section holds significance for user as it serves as an encouragement to stay connected through social media channels and be informed about the latest offers. </li>
 </ul>
 
@@ -320,7 +320,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 | User Story                                                                                                                    | Testing                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| As a user, I would like to know information about the Carefree Holiday travel agency and what services they offer.            | <ul><li>The information about the company, general information about the services offered can be found on the home page. There are three sections on the page.</li><li> First section provides information about the company </li><li>Second section informs the user about the options available, and the packages offered.</li><li>The third section provides details about a new service for cancelation and rebook.</li></ul> |
+| As a user, I would like to know information about the Carefree Holidays travel agency and what services they offer.            | <ul><li>The information about the company, general information about the services offered can be found on the home page. There are three sections on the page.</li><li> First section provides information about the company </li><li>Second section informs the user about the options available, and the packages offered.</li><li>The third section provides details about a new service for cancelation and rebook.</li></ul> |
 | As a user, I would like to be able to easily navigate on the website from page to page.                                       | <ul><li>It is possible to navigate from page to page from the navigation links located in the upper right corner.</li><li> It is also possible to navigate from one page to another through buttons displayed conveniently in the different sections of the page without having to scroll to the top of the page. </li></ul>                                                                                                      |
 | As a user, I would like to know more about the available travel offers, destinations, services included and hotel facilities. | <ul><li>Details about the services and offers can be found in the “Offers” page.</li><li>The “Offers” page can be accessed either through the navigation bar at the right corner or from the home page in the “Check out our offers” section.</li></ul>                                                                                                                                                                           |
 | As a user, I would like to submit a request and find out more about the offers.                                               | <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>                                       |
