@@ -102,13 +102,13 @@ Visit the site live at: https://adrianastoi.github.io/carefree-holidays/
   <li>The fields first name, last name, email address and phone number are required fields to submit the request through the “Submit” button.</li>
 </ul>
 
-![contact us form and submit button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagesreadme/request_form.PNG)
+![contact us form and submit button](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/request_form.PNG)
 
 <ul>
   <li>The form will display a captivating image on the left side, with a car with surfboards on top encouraging the user to embark on a holiday.</li>
 </ul>
 
-![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/request_form.PNG)
+![Van with surfboards on top](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagesreadme/image_contactus_page.PNG)
 
 <ul>
   <li>At the bottom of the page under the form section, the user can find the company’s contact details. Users can contact the agency directly instead of submitting a request.  
@@ -326,6 +326,11 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 | As a user, I would like to submit a request and find out more about the offers.                                               | <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>                                       |
 | As a user, I would like to subscribe to the newsletter and be informed about the upcoming travel offers.                      | <ul><li>To subscribe to newsletter, go to “Contact” page be accessed through the navigation bar at the right top corner or through the “Contact us” buttons.</li><li>Fill in the required fields, “First name”, “Last name”, “Email address”, “Phone number”, check the box Subscribe to Newsletter and click on “Submit”.</li></ul>                                                                                              |
 | As a user, I would like to see a displayed confirmation indicating that my message is being received.                         | <ul><li>When the form is filled in, click on “Submit” button, and you are directed to a “Confirmation” page. </li></ul>                                                                                                                                                                                                                                                                                                           |
+### Fixed Bugs - Media queries
+
+<ul>
+<li></li>
+</ul>
 
 ### Unfixed Bugs
 
