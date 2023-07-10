@@ -326,10 +326,29 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 | As a user, I would like to submit a request and find out more about the offers.                                               | <ul><li>User can submit a request through the request form which is available in the “Contact” page.</li><li>The “Contact” page can be accessed by clicking on “Contact” at the right top corner of the page or through the “Contact us” buttons.</li><li>One “Contact us” button can be found at the bottom of the “Home” page and another one at the bottom of the “Offers page.</li><ul>                                       |
 | As a user, I would like to subscribe to the newsletter and be informed about the upcoming travel offers.                      | <ul><li>To subscribe to newsletter, go to “Contact” page be accessed through the navigation bar at the right top corner or through the “Contact us” buttons.</li><li>Fill in the required fields, “First name”, “Last name”, “Email address”, “Phone number”, check the box Subscribe to Newsletter and click on “Submit”.</li></ul>                                                                                              |
 | As a user, I would like to see a displayed confirmation indicating that my message is being received.                         | <ul><li>When the form is filled in, click on “Submit” button, and you are directed to a “Confirmation” page. </li></ul>                                                                                                                                                                                                                                                                                                           |
+
 ### Fixed Bugs - Media queries
 
+#### Samsung Galaxy S8+
+
 <ul>
-<li></li>
+<li>The Contact us page had a horizontal scroll bar when using Chrome DevTool responsiveness for Samsung Galaxy S8+. Refer to screenshot below:
+![Screenshot bug on Samsung Galaxy S8+]()</li>
+<li>Checked in ChromeDevTools and the issue was the padding of the table containing the contact details.
+![Screenshot Chrome DevTools bug on Samsung Galaxy S8+]()</li>
+<li>Fixed the left and right padding within CSS for media queries max-width 400px devices. The horizontal scroll bar is no longer visible.
+![Screenshot fixed bug on Samsung Galaxy S8+]()</li>
+</ul>
+
+#### Nest Hub
+
+<ul>
+<li>When viewing the Offers page on 1024px device Nest Hub, the alignment of the third offer was not correct.
+![Screenshot bug on Next Hub]()</li>
+<li>I checked in Chrome DevTools and the image needed adjustment on margin-bottom. 
+![Screenshot Chrome DevTools bug on Next Hub]()</li>
+<li>Fixed margin for third offer image for media queries max-width 1024px devices. The alignment of the image has been corrected.
+![Screenshot fixed bug on Next Hub]()</li>
 </ul>
 
 ### Unfixed Bugs
