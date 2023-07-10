@@ -145,7 +145,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
     <li>For the content the color utilized was #25292c for a better contrast with the background.</li>
     <li>On content that is overlaying on background images it was used the color of the body background #fff5ee.</li>
     <li>For the buttons it was utilized the orange #ff7e28. This hue was employed as well when hovering over the nav bar, social media icons and as border for the request form.</li>
-    <li>When hovering over all buttons the background-color is changed to white, and the border and the text are changed to #ff7e28.</li>
+    <li>When hovering over all buttons the background-color is changed to white (#ffffff), and the border and the text are changed to #ff7e28.</li>
     <li>The submit form has a background color #f0dbcd opacity (0.9). It is a light shade of orange and it was applied to maintain harmony in overall design and create a unified look.</li>
 </ul>
 
@@ -158,7 +158,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 ## Technology
 
 <ul>
-    <li>The wireframe of the project was created with Balsamiq for a better planning of the site layout. </li>
+    <li>The wireframe of the project was created with Balsamiq Wireframes for a better planning of the site layout. </li>
         <ul><li>To preserve the page’s loading speed and prevent distractions from the information, the image located at the bottom of the "Contact" page that appears in the wireframe has been omitted from the site. </li>
         <li>The wireframe can be found here: Balsamiq Wareframes-Carefree Holidays:https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/balsamiq_wireframes_carefree_holidays.pdf
         </ul>
@@ -205,7 +205,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 #### Home page
 
-![Home page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/assets/imagestesting/iphone_pro_home_page.PNG)
+![Home page on iPhone 12 Pro](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/iphone_pro_home_page.PNG)
 
 #### Offers page
 
@@ -344,7 +344,10 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 <ul>
 <li>When viewing the Offers page on 1024px device Nest Hub, the alignment of the third offer was not correct.
-![Screenshot bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_offers_nest_hub.PNG)</li>
+</li>
+
+![Screenshot bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_offers_nest_hub.PNG)
+
 <li>I checked in Chrome DevTools and the image needed adjustment on margin-bottom. 
 ![Screenshot Chrome DevTools bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_offers_devtools_nest_hub.PNG)</li>
 <li>Fixed margin for third offer image for media queries max-width 1024px devices. The alignment of the image has been corrected.
@@ -364,7 +367,7 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
     <li>The steps to deploy site to GitHub are the following:</li>
            <ul><li>From the GitHub repository, navigate to the "Settings" tab </li>
     	    <li>Then click on “Pages” located in the left-hand side</li>
-	        <li>From the "Branch" section, click on “none” and select “main” and click on “Save”</li>
+	        <li>From the "Branch" section, click on “none”, select “main” and click on “Save”</li>
 	        <li>After choosing the "main" branch, after a few minutes the website is live and the link to access it is displayed at the top of the page.</li></ul>
     <li>You can find the active link here: https://adrianastoi.github.io/carefree-holidays/</li>
 </ul>
