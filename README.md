@@ -333,22 +333,22 @@ Four colors were used on the website: #fff5ee, #25292c, #ff7e28, #f0dbcd.
 
 <ul>
 <li>The Contact us page had a horizontal scroll bar when using Chrome DevTool responsiveness for Samsung Galaxy S8+. Refer to screenshot below:
-![Screenshot bug on Samsung Galaxy S8+]()</li>
+![Screenshot bug on Samsung Galaxy S8+](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_contactus_samsung_galaxy_s_eight.PNG)</li>
 <li>Checked in ChromeDevTools and the issue was the padding of the table containing the contact details.
-![Screenshot Chrome DevTools bug on Samsung Galaxy S8+]()</li>
+![Screenshot Chrome DevTools bug on Samsung Galaxy S8+](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_dev_tools_contact_us_samsung_galaxy_s_eight.PNG)</li>
 <li>Fixed the left and right padding within CSS for media queries max-width 400px devices. The horizontal scroll bar is no longer visible.
-![Screenshot fixed bug on Samsung Galaxy S8+]()</li>
+![Screenshot fixed bug on Samsung Galaxy S8+](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/fix_bug_samsung_galaxy_s_eight.PNG)</li>
 </ul>
 
 #### Nest Hub
 
 <ul>
 <li>When viewing the Offers page on 1024px device Nest Hub, the alignment of the third offer was not correct.
-![Screenshot bug on Next Hub]()</li>
+![Screenshot bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_offers_nest_hub.PNG)</li>
 <li>I checked in Chrome DevTools and the image needed adjustment on margin-bottom. 
-![Screenshot Chrome DevTools bug on Next Hub]()</li>
+![Screenshot Chrome DevTools bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/bug_offers_devtools_nest_hub.PNG)</li>
 <li>Fixed margin for third offer image for media queries max-width 1024px devices. The alignment of the image has been corrected.
-![Screenshot fixed bug on Next Hub]()</li>
+![Screenshot fixed bug on Next Hub](https://github.com/AdrianaStoi/carefree-holidays/blob/main/documentation/imagestesting/fix_bug_offers_nest_hub.PNG)</li>
 </ul>
 
 ### Unfixed Bugs
